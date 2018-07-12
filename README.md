@@ -1,2 +1,3 @@
-# Label_parts
+# Partes
+
 Lista de possíveis nomeclaturas de partes em processos juridicos.
