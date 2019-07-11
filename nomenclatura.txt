@@ -29,24 +29,24 @@
   "agte" : "Agravante", ==  ativo 
   "agte." : "Agravante",==  ativo 
   "agvte" : "Agravante", ==  ativo 
-  "apda" : "Apelado", ==  passivo segunda instancia 
-  "apdo" : "Apelado", ==  passivo segunda instancia 
-  "apdo." : "Apelado", ==  passivo segunda instancia 
-  "apelada" : "Apelado", ==  ==  passivo segunda instancia  
-  "apeladas" : "Apelado", ==  passivo segunda instancia 
-  "apelada(s)" : "Apelado", ==  passivo segunda instancia 
-  "apelado" : "Apelado", ==  passivo segunda instancia 
-  "apelados" : "Apelado", ==  passivo segunda instancia 
-  "apelado(a)" : "Apelado", ==  passivo segunda instancia 
-  "apelado(a)(s)" : "Apelado",  ==  passivo segunda instancia 
-  "apelado(s)" : "Apelado",  ==  passivo segunda instancia 
-  "apdo/apte" : "Apelado/Apelante",  ==  ativo segunda instancia 
-  "1º apelante" : "Primeiro apelante", ==  ativo segunda instancia
-  "apelante" : "Apelante", ==  ativo segunda instancia
-  "apelantes" : "Apelante", ==  ativo segunda instancia
-  "apelante(s)" : "Apelante", ==  ativo segunda instancia
-  "apte" : "Apelante", ==  ativo segunda instancia
-  "apte." : "Apelante", ==  ativo segunda instancia
+  "apda" : "Apelado", ==  passivo 
+  "apdo" : "Apelado", ==  passivo 
+  "apdo." : "Apelado", ==  passivo 
+  "apelada" : "Apelado", ==  ==  passivo  
+  "apeladas" : "Apelado", ==  passivo 
+  "apelada(s)" : "Apelado", ==  passivo 
+  "apelado" : "Apelado", ==  passivo 
+  "apelados" : "Apelado", ==  passivo 
+  "apelado(a)" : "Apelado", ==  passivo 
+  "apelado(a)(s)" : "Apelado",  ==  passivo 
+  "apelado(s)" : "Apelado",  ==  passivo 
+  "apdo/apte" : "Apelado/Apelante",  ==  ativo 
+  "1º apelante" : "Primeiro apelante", ==  ativo
+  "apelante" : "Apelante", ==  ativo
+  "apelantes" : "Apelante", ==  ativo
+  "apelante(s)" : "Apelante", ==  ativo
+  "apte" : "Apelante", ==  ativo
+  "apte." : "Apelante", ==  ativo
   "apte/apdo" : "Apelante/Apelado",   ==  passivo 
   "apenado" : "Apenado",   ==  passivo 
   "arguido" : "Arguido",  ==  passivo 
@@ -102,17 +102,16 @@
   "credor" : "Credor",    ==  ativo
   "criança / adole" : "Criança/Adolescente",
   "de cujus" : "De Cujus", 
-  "defensor dativo" : "Defensor dativo ", == advogado
   "demandado" : "Demandado",   ==  passivo
   "demandante" : "Demandante",    ==  ativo
   "denunciado" : "Denunciado",  ==  passivo
   "denunciado(s)" : "Denunciado",    ==  passivo
   "denunciante" : "Denunciante",    ==  ativo
   "denunciante(s)" : "Denunciante",  ==  ativo
-  "depcdo" : "Deprecado", == Juiz
-  "deprecado" : "Deprecado", == Juiz
-  "depcte" : "Deprecante", == Juiz
-  "deprecante" : "Deprecante", == Juiz
+  "depcdo" : "Deprecado", == juizo/desembargador
+  "deprecado" : "Deprecado", == juizo/desembargador
+  "depcte" : "Deprecante", == juizo/desembargador
+  "deprecante" : "Deprecante", == juizo/desembargador
   "devedor" : "Devedor",    ==  passivo
   "dilig." : "Dilig.", 
   "embargado" : "Embargado",    ==  passivo
@@ -241,8 +240,8 @@
   "litisconsorte passiv" : "Litisconsorte Passivo",    ==  passivo
   "litisconsorte passivo necessário" : "Litisconsorte Passivo Necessário",     ==  passivo
   "marca" : "Marca",
-  "massa falida" : "Massa Falida", == patrimonio devedor 
-  "massa insolvente" : "Massa Insolvente",  == patrimonio devedor 
+  "massa falida" : "Massa Falida", == passivo 
+  "massa insolvente" : "Massa Insolvente",  == passivo 
   "nome do autor" : "Autor",     ==  ativo
   "nome do depositante" : "Depositante",    == ativo ou passivo 
   "nome do inventor" : "Inventor",     ==  passivo
@@ -319,43 +318,43 @@
   "reconvinte" : "Reconvinte",     ==  passivo
   "reconvintes" : "Reconvinte",    ==  passivo
   "reconvinte(s)" : "Reconvinte",    ==  passivo
-  "recorrente" : "Recorrente",    ==   ativo segundo grau
-  "recorrentes" : "Recorrente",   == ativo segundo grau
-  "recorrente(s)" : "Recorrente",  == ativo segundo grau
-  "recte" : "Recorrente",    == ativo segundo grau
-  "recte." : "Recorrente",   == ativo segundo grau
-  "recte.(s)" : "Recorrente",   == ativo segundo grau
-  "1º recorrente" : "Primeiro Recorrente", == ativo segundo grau
-  "2º recorrente" : "Segundo Recorrente", == ativo segundo grau
-  "3º recorrente" : "Terceiro == ativo segundo grau
+  "recorrente" : "Recorrente",    ==   ativo
+  "recorrentes" : "Recorrente",   == ativo
+  "recorrente(s)" : "Recorrente",  == ativo
+  "recte" : "Recorrente",    == ativo
+  "recte." : "Recorrente",   == ativo
+  "recte.(s)" : "Recorrente",   == ativo
+  "1º recorrente" : "Primeiro Recorrente", == ativo
+  "2º recorrente" : "Segundo Recorrente", == ativo
+  "3º recorrente" : "Terceiro == ativo
   "rcrte/rcrda" : "Recorrente/Recorrido", == ativo ou passivo 
   "rcrte/rcrdo" : "Recorrente/Recorrido",== ativo ou passivo 
   "rcrda/rcrte" : "Recorrido/Recorrente",== ativo ou passivo 
   "rcrdo/rcrte" : "Recorrido/Recorrente",== ativo ou passivo 
   "recorrente e recorrido" : "Recorrente/Recorrido",== ativo ou passivo 
-  "recorrente(s) e agravado(a)(s)" : "Recorrente/Agravado",  == ativo segundo grau
-  "recorrente (s) e agravado (a) (s)" : "Recorrente/Agravado", == ativo segundo grau
-  "recdo" : "Recorrido",  == passivo segundo grau
-  "recdo." : "Recorrido", == passivo segundo grau
-  "recdo.(a/s)" : "Recorrido", == passivo segundo grau
-  "recorrida" : "Recorrido", == passivo segundo grau
-  "recorridas" : "Recorrido", == passivo segundo grau
-  "recorrida(s)" : "Recorrido",== passivo segundo grau
-  "recorrido" : "Recorrido",== passivo segundo grau
-  "recorridos" : "Recorrido",== passivo segundo grau
-  "recorrido(a)" : "Recorrido",== passivo segundo grau
-  "recorrido(a)(s)" : "Recorrido", == passivo segundo grau
-  "recorrido(s)" : "Recorrido", == passivo segundo grau
-  "recorrido(s) e agravante(s)" : "Recorrido/Agravante", == passivo segundo grau
+  "recorrente(s) e agravado(a)(s)" : "Recorrente/Agravado",  == ativo
+  "recorrente (s) e agravado (a) (s)" : "Recorrente/Agravado", == ativo
+  "recdo" : "Recorrido",  == passivo
+  "recdo." : "Recorrido", == passivo
+  "recdo.(a/s)" : "Recorrido", == passivo
+  "recorrida" : "Recorrido", == passivo
+  "recorridas" : "Recorrido", == passivo
+  "recorrida(s)" : "Recorrido",== passivo
+  "recorrido" : "Recorrido",== passivo
+  "recorridos" : "Recorrido",== passivo
+  "recorrido(a)" : "Recorrido",== passivo
+  "recorrido(a)(s)" : "Recorrido", == passivo
+  "recorrido(s)" : "Recorrido", == passivo
+  "recorrido(s) e agravante(s)" : "Recorrido/Agravante", == passivo
   "recda/recte" : "Recdo/Recte",  == ativo ou passivo 
   "recdo/recte" : "Recdo/Recte", == ativo ou passivo 
   "recte/recda" : "Recte/Recdo", == ativo ou passivo 
   "recte/recdo" : "Recte/Recdo",  == ativo ou passivo 
   "reeducando" : "Reeducando", == passivo
-  "relator" : "Relator", == desembargador 
-  "relator(a)" : "Relator", == desembargador 
-  "relatores" : "Relator", == desembargador 
-  "relator(es)" : "Relator", == desembargador 
+  "relator" : "Relator", == juizo / desembargador 
+  "relator(a)" : "Relator", == juizo / desembargador
+  "relatores" : "Relator", == juizo / desembargador
+  "relator(es)" : "Relator", == juizo / desembargador
   "remetente" : "Remetente", == ativo ou passivo 
   "representante" : "Representante", == terceiro
   "representante(pais)" : "Representante", == terceiro
@@ -419,7 +418,7 @@
   "revisor(a)" : "Revisor",  == juizo/desembargador
   "revisores" : "Revisor", == juizo/desembargador
   "revisor(es)" : "Revisor", == juizo/desembargador
-  "sentenciado" : "Sentenciado", == passivocondenado
+  "sentenciado" : "Sentenciado", == passivo
   "sujeito passivo" : "Sujeito passivo",  == passivo 
   "suscitado" : "Suscitado", == passivo
   "suscitante" : "Suscitante", == ativo
