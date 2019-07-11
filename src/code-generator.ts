@@ -39,6 +39,8 @@ mapValues(polosProvaveis, (polo, idx) => {
   console.log(`type ${idx} = ${polo.join(' | ')}`)
 })
 
-mapValues(partes, (parte, idx) => {
-  console.log(`type ${idx} = ${parte.map(parte => `"${parte}"`).join(' | ')}`)
+mapValues(partes, (partes, idx) => {
+  console.log(`enum ${idx} = {
+${partes.map(parte => `  ${parte} = "${parte}"`).join('\n')}
+}`)
 })
