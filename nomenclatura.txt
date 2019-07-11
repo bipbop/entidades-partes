@@ -326,7 +326,7 @@
   "recte.(s)" : "Recorrente",   == ativo
   "1º recorrente" : "Primeiro Recorrente", == ativo
   "2º recorrente" : "Segundo Recorrente", == ativo
-  "3º recorrente" : "Terceiro == ativo
+  "3º recorrente" : "Terceiro" == ativo
   "rcrte/rcrda" : "Recorrente/Recorrido", == ativo ou passivo 
   "rcrte/rcrdo" : "Recorrente/Recorrido",== ativo ou passivo 
   "rcrda/rcrte" : "Recorrido/Recorrente",== ativo ou passivo 
