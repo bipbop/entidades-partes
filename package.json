@@ -1,0 +1,22 @@
+{
+  "name": "entidades-partes",
+  "version": "0.1.0",
+  "description": "Lista de possíveis nomeclaturas de partes em processos juridicos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipbop/entidades-partes.git"
+  },
+  "author": "Alexandro Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bipbop/entidades-partes/issues"
+  },
+  "homepage": "https://github.com/bipbop/entidades-partes#readme",
+  "devDependencies": {
+    "@types/node": "12.6.2"
+  }
+}
