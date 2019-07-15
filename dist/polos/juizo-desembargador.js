@@ -1,0 +1,28 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var deprecado_1 = require("../partes/deprecado");
+exports.EnumDeprecado = deprecado_1.EnumDeprecado;
+var deprecante_1 = require("../partes/deprecante");
+exports.EnumDeprecante = deprecante_1.EnumDeprecante;
+var juizo_sentenciante_1 = require("../partes/juizo-sentenciante");
+exports.EnumJuizoSentenciante = juizo_sentenciante_1.EnumJuizoSentenciante;
+var jusrogante_1 = require("../partes/jusrogante");
+exports.EnumJusrogante = jusrogante_1.EnumJusrogante;
+var juiz_deprecante_1 = require("../partes/juiz-deprecante");
+exports.EnumJuizDeprecante = juiz_deprecante_1.EnumJuizDeprecante;
+var just_rog_1 = require("../partes/just-rog");
+exports.EnumJustRog = just_rog_1.EnumJustRog;
+var relator_1 = require("../partes/relator");
+exports.EnumRelator = relator_1.EnumRelator;
+var revisor_1 = require("../partes/revisor");
+exports.EnumRevisor = revisor_1.EnumRevisor;
+var deprecado_2 = require("../partes/deprecado");
+var deprecante_2 = require("../partes/deprecante");
+var juizo_sentenciante_2 = require("../partes/juizo-sentenciante");
+var jusrogante_2 = require("../partes/jusrogante");
+var juiz_deprecante_2 = require("../partes/juiz-deprecante");
+var just_rog_2 = require("../partes/just-rog");
+var relator_2 = require("../partes/relator");
+var revisor_2 = require("../partes/revisor");
+exports.JuizoDesembargador = Object.assign({}, deprecado_2.EnumDeprecado, deprecante_2.EnumDeprecante, juizo_sentenciante_2.EnumJuizoSentenciante, jusrogante_2.EnumJusrogante, juiz_deprecante_2.EnumJuizDeprecante, just_rog_2.EnumJustRog, relator_2.EnumRelator, revisor_2.EnumRevisor);
+//# sourceMappingURL=juizo-desembargador.js.map

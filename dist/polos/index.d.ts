@@ -1,0 +1,11 @@
+export { default as TypeAtivoOuPassivo } from "./ativo-ou-passivo";
+export { default as TypeAtivo } from "./ativo";
+export { default as TypePassivo } from "./passivo";
+export { default as TypeJuizoDesembargador } from "./juizo-desembargador";
+export { default as TypeTerceiro } from "./terceiro";
+import { TypeAtivoOuPassivo } from "./ativo-ou-passivo";
+import { TypeAtivo } from "./ativo";
+import { TypePassivo } from "./passivo";
+import { TypeJuizoDesembargador } from "./juizo-desembargador";
+import { TypeTerceiro } from "./terceiro";
+export declare type Parte = TypeTerceiro | TypeJuizoDesembargador | TypePassivo | TypeAtivo | TypeAtivoOuPassivo;
