@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInventariado;
-(function (EnumInventariado) {
-    EnumInventariado["Inventariado"] = "Inventariado";
-})(EnumInventariado = exports.EnumInventariado || (exports.EnumInventariado = {}));
+var Inventariado;
+(function (Inventariado) {
+    Inventariado["Inventariado"] = "Inventariado";
+})(Inventariado = exports.Inventariado || (exports.Inventariado = {}));
 //# sourceMappingURL=inventariado.js.map

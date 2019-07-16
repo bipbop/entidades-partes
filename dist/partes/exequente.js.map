@@ -1,1 +1,1 @@
-{"version":3,"file":"exequente.js","sourceRoot":"","sources":["../../src/partes/exequente.ts"],"names":[],"mappings":";;AAAA,IAAY,aAKX;AALD,WAAY,aAAa;IACvB,wCAAuB,CAAA;IACvB,0CAAyB,CAAA;IACzB,kCAAiB,CAAA;IACjB,gCAAe,CAAA;AACjB,CAAC,EALW,aAAa,GAAb,qBAAa,KAAb,qBAAa,QAKxB"}
+{"version":3,"file":"exequente.js","sourceRoot":"","sources":["../../src/partes/exequente.ts"],"names":[],"mappings":";;AAAA,IAAY,SAKX;AALD,WAAY,SAAS;IACnB,oCAAuB,CAAA;IACvB,sCAAyB,CAAA;IACzB,8BAAiB,CAAA;IACjB,4BAAe,CAAA;AACjB,CAAC,EALW,SAAS,GAAT,iBAAS,KAAT,iBAAS,QAKpB"}

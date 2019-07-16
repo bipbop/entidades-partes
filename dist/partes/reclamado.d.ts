@@ -1,4 +1,4 @@
-export declare enum EnumReclamado {
+export declare enum Reclamado {
     PlurimaDoReclamado = "PlurimaDoReclamado",
     Reclamada = "Reclamada",
     Reclamadas = "Reclamadas",

@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumEntrePartes;
-(function (EnumEntrePartes) {
-    EnumEntrePartes["EntrePartes"] = "EntrePartes";
-})(EnumEntrePartes = exports.EnumEntrePartes || (exports.EnumEntrePartes = {}));
+var EntrePartes;
+(function (EntrePartes) {
+    EntrePartes["EntrePartes"] = "EntrePartes";
+})(EntrePartes = exports.EntrePartes || (exports.EntrePartes = {}));
 //# sourceMappingURL=entre-partes.js.map

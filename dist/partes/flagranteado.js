@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumFlagranteado;
-(function (EnumFlagranteado) {
-    EnumFlagranteado["Flagranteado"] = "Flagranteado";
-})(EnumFlagranteado = exports.EnumFlagranteado || (exports.EnumFlagranteado = {}));
+var Flagranteado;
+(function (Flagranteado) {
+    Flagranteado["Flagranteado"] = "Flagranteado";
+})(Flagranteado = exports.Flagranteado || (exports.Flagranteado = {}));
 //# sourceMappingURL=flagranteado.js.map

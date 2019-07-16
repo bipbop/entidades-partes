@@ -1,4 +1,4 @@
-export declare enum EnumImpetrado {
+export declare enum Impetrado {
     Impdo = "Impdo",
     ImpdoAS = "ImpdoAS",
     ImpdoS = "ImpdoS",

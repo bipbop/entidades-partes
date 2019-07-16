@@ -1,1 +1,1 @@
-{"version":3,"file":"consignante.js","sourceRoot":"","sources":["../../src/partes/consignante.ts"],"names":[],"mappings":";;AAAA,IAAY,eAGX;AAHD,WAAY,eAAe;IACzB,8CAA2B,CAAA;IAC3B,gDAA6B,CAAA;AAC/B,CAAC,EAHW,eAAe,GAAf,uBAAe,KAAf,uBAAe,QAG1B"}
+{"version":3,"file":"consignante.js","sourceRoot":"","sources":["../../src/partes/consignante.ts"],"names":[],"mappings":";;AAAA,IAAY,WAGX;AAHD,WAAY,WAAW;IACrB,0CAA2B,CAAA;IAC3B,4CAA6B,CAAA;AAC/B,CAAC,EAHW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAGtB"}

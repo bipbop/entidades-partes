@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumChamadoAoProcesso;
-(function (EnumChamadoAoProcesso) {
-    EnumChamadoAoProcesso["ChamadoAoProcesso"] = "ChamadoAoProcesso";
-})(EnumChamadoAoProcesso = exports.EnumChamadoAoProcesso || (exports.EnumChamadoAoProcesso = {}));
+var ChamadoAoProcesso;
+(function (ChamadoAoProcesso) {
+    ChamadoAoProcesso["ChamadoAoProcesso"] = "ChamadoAoProcesso";
+})(ChamadoAoProcesso = exports.ChamadoAoProcesso || (exports.ChamadoAoProcesso = {}));
 //# sourceMappingURL=chamado-ao-processo.js.map

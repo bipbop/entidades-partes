@@ -1,4 +1,4 @@
-export enum Polo { 
+export enum Polo {
   Passivo = 'Passivo',
   Terceiro = 'Terceiro',
   Ativo = 'Ativo',

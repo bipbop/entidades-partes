@@ -1,3 +1,3 @@
-export declare enum EnumMarca {
+export declare enum Marca {
     Marca = "Marca"
 }

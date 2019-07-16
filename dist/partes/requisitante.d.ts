@@ -1,4 +1,4 @@
-export declare enum EnumRequisitante {
+export declare enum Requisitante {
     Requisitante = "Requisitante",
     Requisitantes = "Requisitantes"
 }

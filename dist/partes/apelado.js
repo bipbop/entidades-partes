@@ -1,14 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumApelado;
-(function (EnumApelado) {
-    EnumApelado["Apda"] = "Apda";
-    EnumApelado["Apdo"] = "Apdo";
-    EnumApelado["Apelada"] = "Apelada";
-    EnumApelado["Apeladas"] = "Apeladas";
-    EnumApelado["Apelado"] = "Apelado";
-    EnumApelado["Apelados"] = "Apelados";
-    EnumApelado["Apeladoa"] = "Apeladoa";
-    EnumApelado["Apeladoas"] = "Apeladoas";
-})(EnumApelado = exports.EnumApelado || (exports.EnumApelado = {}));
+var Apelado;
+(function (Apelado) {
+    Apelado["Apda"] = "Apda";
+    Apelado["Apdo"] = "Apdo";
+    Apelado["Apelada"] = "Apelada";
+    Apelado["Apeladas"] = "Apeladas";
+    Apelado["Apelado"] = "Apelado";
+    Apelado["Apelados"] = "Apelados";
+    Apelado["Apeladoa"] = "Apeladoa";
+    Apelado["Apeladoas"] = "Apeladoas";
+})(Apelado = exports.Apelado || (exports.Apelado = {}));
 //# sourceMappingURL=apelado.js.map

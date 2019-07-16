@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumDilig;
-(function (EnumDilig) {
-    EnumDilig["Dilig"] = "Dilig";
-})(EnumDilig = exports.EnumDilig || (exports.EnumDilig = {}));
+var Dilig;
+(function (Dilig) {
+    Dilig["Dilig"] = "Dilig";
+})(Dilig = exports.Dilig || (exports.Dilig = {}));
 //# sourceMappingURL=dilig.js.map

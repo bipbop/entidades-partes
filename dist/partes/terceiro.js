@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumTerceiro;
-(function (EnumTerceiro) {
-    EnumTerceiro["Recorrente"] = "Recorrente";
-    EnumTerceiro["Terceiro"] = "Terceiro";
-})(EnumTerceiro = exports.EnumTerceiro || (exports.EnumTerceiro = {}));
+var Terceiro;
+(function (Terceiro) {
+    Terceiro["Recorrente"] = "Recorrente";
+    Terceiro["Terceiro"] = "Terceiro";
+})(Terceiro = exports.Terceiro || (exports.Terceiro = {}));
 //# sourceMappingURL=terceiro.js.map

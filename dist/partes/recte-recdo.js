@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumRecteRecdo;
-(function (EnumRecteRecdo) {
-    EnumRecteRecdo["RecteRecda"] = "RecteRecda";
-    EnumRecteRecdo["RecteRecdo"] = "RecteRecdo";
-})(EnumRecteRecdo = exports.EnumRecteRecdo || (exports.EnumRecteRecdo = {}));
+var RecteRecdo;
+(function (RecteRecdo) {
+    RecteRecdo["RecteRecda"] = "RecteRecda";
+    RecteRecdo["RecteRecdo"] = "RecteRecdo";
+})(RecteRecdo = exports.RecteRecdo || (exports.RecteRecdo = {}));
 //# sourceMappingURL=recte-recdo.js.map

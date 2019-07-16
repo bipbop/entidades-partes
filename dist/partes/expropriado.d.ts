@@ -1,3 +1,3 @@
-export declare enum EnumExpropriado {
+export declare enum Expropriado {
     Expropriado = "Expropriado"
 }

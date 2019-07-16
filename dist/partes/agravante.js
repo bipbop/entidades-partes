@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumAgravante;
-(function (EnumAgravante) {
-    EnumAgravante["Agravante"] = "Agravante";
-    EnumAgravante["Agravantes"] = "Agravantes";
-    EnumAgravante["Agravte"] = "Agravte";
-    EnumAgravante["Agrte"] = "Agrte";
-    EnumAgravante["Agte"] = "Agte";
-    EnumAgravante["Agvte"] = "Agvte";
-})(EnumAgravante = exports.EnumAgravante || (exports.EnumAgravante = {}));
+var Agravante;
+(function (Agravante) {
+    Agravante["Agravante"] = "Agravante";
+    Agravante["Agravantes"] = "Agravantes";
+    Agravante["Agravte"] = "Agravte";
+    Agravante["Agrte"] = "Agrte";
+    Agravante["Agte"] = "Agte";
+    Agravante["Agvte"] = "Agvte";
+})(Agravante = exports.Agravante || (exports.Agravante = {}));
 //# sourceMappingURL=agravante.js.map

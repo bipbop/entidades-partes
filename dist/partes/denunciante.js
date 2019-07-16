@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumDenunciante;
-(function (EnumDenunciante) {
-    EnumDenunciante["Denunciante"] = "Denunciante";
-    EnumDenunciante["Denunciantes"] = "Denunciantes";
-})(EnumDenunciante = exports.EnumDenunciante || (exports.EnumDenunciante = {}));
+var Denunciante;
+(function (Denunciante) {
+    Denunciante["Denunciante"] = "Denunciante";
+    Denunciante["Denunciantes"] = "Denunciantes";
+})(Denunciante = exports.Denunciante || (exports.Denunciante = {}));
 //# sourceMappingURL=denunciante.js.map

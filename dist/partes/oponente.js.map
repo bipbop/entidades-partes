@@ -1,1 +1,1 @@
-{"version":3,"file":"oponente.js","sourceRoot":"","sources":["../../src/partes/oponente.ts"],"names":[],"mappings":";;AAAA,IAAY,YAEX;AAFD,WAAY,YAAY;IACtB,qCAAqB,CAAA;AACvB,CAAC,EAFW,YAAY,GAAZ,oBAAY,KAAZ,oBAAY,QAEvB"}
+{"version":3,"file":"oponente.js","sourceRoot":"","sources":["../../src/partes/oponente.ts"],"names":[],"mappings":";;AAAA,IAAY,QAEX;AAFD,WAAY,QAAQ;IAClB,iCAAqB,CAAA;AACvB,CAAC,EAFW,QAAQ,GAAR,gBAAQ,KAAR,gBAAQ,QAEnB"}

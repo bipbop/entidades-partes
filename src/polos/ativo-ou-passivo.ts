@@ -20,7 +20,7 @@ export { RecteRecdo } from '../partes/recte-recdo'
 export { Remetente } from '../partes/remetente'
 export { Representado } from '../partes/representado'
 export { Responsavel } from '../partes/responsavel'
-  
+
 import { Contratado } from '../partes/contratado'
 import { Contratante } from '../partes/contratante'
 import { ContribuintePrincipal } from '../partes/contribuinte-principal'
@@ -47,7 +47,7 @@ import { Polo } from '.'
 
 export type TypeAtivoOuPassivo = Contratado | Contratante | ContribuintePrincipal | Inventariante | Litisconsorte | Depositante | Procurador | Titular | Noticiado | Noticiante | Notificado | Notificante | Oposto | Outros | OutrosNomes | RecorrenteRecorrido | RecorridoRecorrente | RecdoRecte | RecteRecdo | Remetente | Representado | Responsavel
 
-export interface DictAtivoOuPassivo {[name: string]: TypeAtivoOuPassivo}
+export interface DictAtivoOuPassivo { [name: string]: TypeAtivoOuPassivo }
 export const ObjectAtivoOuPassivo: DictAtivoOuPassivo = Object.assign({}, Contratado, Contratante, ContribuintePrincipal, Inventariante, Litisconsorte, Depositante, Procurador, Titular, Noticiado, Noticiante, Notificado, Notificante, Oposto, Outros, OutrosNomes, RecorrenteRecorrido, RecorridoRecorrente, RecdoRecte, RecteRecdo, Remetente, Representado, Responsavel)
 Object.freeze(ObjectAtivoOuPassivo)
 

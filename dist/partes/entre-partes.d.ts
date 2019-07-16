@@ -1,3 +1,3 @@
-export declare enum EnumEntrePartes {
+export declare enum EntrePartes {
     EntrePartes = "EntrePartes"
 }

@@ -1,15 +1,15 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumImpetrado;
-(function (EnumImpetrado) {
-    EnumImpetrado["Impdo"] = "Impdo";
-    EnumImpetrado["ImpdoAS"] = "ImpdoAS";
-    EnumImpetrado["ImpdoS"] = "ImpdoS";
-    EnumImpetrado["Impetrada"] = "Impetrada";
-    EnumImpetrado["Impetradas"] = "Impetradas";
-    EnumImpetrado["Impetrado"] = "Impetrado";
-    EnumImpetrado["Impetrados"] = "Impetrados";
-    EnumImpetrado["Imptda"] = "Imptda";
-    EnumImpetrado["Imptdo"] = "Imptdo";
-})(EnumImpetrado = exports.EnumImpetrado || (exports.EnumImpetrado = {}));
+var Impetrado;
+(function (Impetrado) {
+    Impetrado["Impdo"] = "Impdo";
+    Impetrado["ImpdoAS"] = "ImpdoAS";
+    Impetrado["ImpdoS"] = "ImpdoS";
+    Impetrado["Impetrada"] = "Impetrada";
+    Impetrado["Impetradas"] = "Impetradas";
+    Impetrado["Impetrado"] = "Impetrado";
+    Impetrado["Impetrados"] = "Impetrados";
+    Impetrado["Imptda"] = "Imptda";
+    Impetrado["Imptdo"] = "Imptdo";
+})(Impetrado = exports.Impetrado || (exports.Impetrado = {}));
 //# sourceMappingURL=impetrado.js.map

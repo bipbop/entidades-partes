@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumAtiva;
-(function (EnumAtiva) {
-    EnumAtiva["Ativa"] = "Ativa";
-})(EnumAtiva = exports.EnumAtiva || (exports.EnumAtiva = {}));
+var Ativa;
+(function (Ativa) {
+    Ativa["Ativa"] = "Ativa";
+})(Ativa = exports.Ativa || (exports.Ativa = {}));
 //# sourceMappingURL=ativa.js.map

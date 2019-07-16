@@ -1,1 +1,1 @@
-{"version":3,"file":"sustado.js","sourceRoot":"","sources":["../../src/partes/sustado.ts"],"names":[],"mappings":";;AAAA,IAAY,WAGX;AAHD,WAAY,WAAW;IACrB,8BAAe,CAAA;IACf,kCAAmB,CAAA;AACrB,CAAC,EAHW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAGtB"}
+{"version":3,"file":"sustado.js","sourceRoot":"","sources":["../../src/partes/sustado.ts"],"names":[],"mappings":";;AAAA,IAAY,OAGX;AAHD,WAAY,OAAO;IACjB,0BAAe,CAAA;IACf,8BAAmB,CAAA;AACrB,CAAC,EAHW,OAAO,GAAP,eAAO,KAAP,eAAO,QAGlB"}

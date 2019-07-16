@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInterditado;
-(function (EnumInterditado) {
-    EnumInterditado["Interditado"] = "Interditado";
-})(EnumInterditado = exports.EnumInterditado || (exports.EnumInterditado = {}));
+var Interditado;
+(function (Interditado) {
+    Interditado["Interditado"] = "Interditado";
+})(Interditado = exports.Interditado || (exports.Interditado = {}));
 //# sourceMappingURL=interditado.js.map

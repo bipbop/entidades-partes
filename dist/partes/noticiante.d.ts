@@ -1,3 +1,3 @@
-export declare enum EnumNoticiante {
+export declare enum Noticiante {
     Noticiante = "Noticiante"
 }

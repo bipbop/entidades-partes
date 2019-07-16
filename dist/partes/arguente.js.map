@@ -1,1 +1,1 @@
-{"version":3,"file":"arguente.js","sourceRoot":"","sources":["../../src/partes/arguente.ts"],"names":[],"mappings":";;AAAA,IAAY,YAIX;AAJD,WAAY,YAAY;IACtB,qCAAqB,CAAA;IACrB,+BAAe,CAAA;IACf,iCAAiB,CAAA;AACnB,CAAC,EAJW,YAAY,GAAZ,oBAAY,KAAZ,oBAAY,QAIvB"}
+{"version":3,"file":"arguente.js","sourceRoot":"","sources":["../../src/partes/arguente.ts"],"names":[],"mappings":";;AAAA,IAAY,QAIX;AAJD,WAAY,QAAQ;IAClB,iCAAqB,CAAA;IACrB,2BAAe,CAAA;IACf,6BAAiB,CAAA;AACnB,CAAC,EAJW,QAAQ,GAAR,gBAAQ,KAAR,gBAAQ,QAInB"}

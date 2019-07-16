@@ -1,16 +1,16 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumReclamado;
-(function (EnumReclamado) {
-    EnumReclamado["PlurimaDoReclamado"] = "PlurimaDoReclamado";
-    EnumReclamado["Reclamada"] = "Reclamada";
-    EnumReclamado["Reclamadas"] = "Reclamadas";
-    EnumReclamado["ReclamadaS"] = "ReclamadaS";
-    EnumReclamado["ReclamadaPrincipal"] = "ReclamadaPrincipal";
-    EnumReclamado["Reclamado"] = "Reclamado";
-    EnumReclamado["Reclamados"] = "Reclamados";
-    EnumReclamado["ReclamadoS"] = "ReclamadoS";
-    EnumReclamado["Recldo"] = "Recldo";
-    EnumReclamado["RecldoAS"] = "RecldoAS";
-})(EnumReclamado = exports.EnumReclamado || (exports.EnumReclamado = {}));
+var Reclamado;
+(function (Reclamado) {
+    Reclamado["PlurimaDoReclamado"] = "PlurimaDoReclamado";
+    Reclamado["Reclamada"] = "Reclamada";
+    Reclamado["Reclamadas"] = "Reclamadas";
+    Reclamado["ReclamadaS"] = "ReclamadaS";
+    Reclamado["ReclamadaPrincipal"] = "ReclamadaPrincipal";
+    Reclamado["Reclamado"] = "Reclamado";
+    Reclamado["Reclamados"] = "Reclamados";
+    Reclamado["ReclamadoS"] = "ReclamadoS";
+    Reclamado["Recldo"] = "Recldo";
+    Reclamado["RecldoAS"] = "RecldoAS";
+})(Reclamado = exports.Reclamado || (exports.Reclamado = {}));
 //# sourceMappingURL=reclamado.js.map

@@ -40,7 +40,7 @@ export { Requisitante } from '../partes/requisitante'
 export { Suscitante } from '../partes/suscitante'
 export { Sustante } from '../partes/sustante'
 export { Vitima } from '../partes/vitima'
-  
+
 import { Agravante } from '../partes/agravante'
 import { ApeladoApelante } from '../partes/apelado-apelante'
 import { PrimeiroApelante } from '../partes/primeiro-apelante'
@@ -87,7 +87,7 @@ import { Polo } from '.'
 
 export type TypeAtivo = Agravante | ApeladoApelante | PrimeiroApelante | Apelante | Arguente | Ativa | Autor | AutorDoFato | Consignante | Credor | Demandante | Denunciante | Embargante | Excepto | Executante | Exequente | Expropriante | Impetrante | Impugnante | Interpelante | Interveniente | InventarianteParteAtiva | Nunciante | Oponente | Paciente | Plurima | PoloAtivo | Promovente | Proponente | Querelante | Reclamante | Reconvindo | Recorrente | PrimeiroRecorrente | SegundoRecorrente | Terceiro | RecorrenteAgravado | Requerente | Requisitante | Suscitante | Sustante | Vitima
 
-export interface DictAtivo {[name: string]: TypeAtivo}
+export interface DictAtivo { [name: string]: TypeAtivo }
 export const ObjectAtivo: DictAtivo = Object.assign({}, Agravante, ApeladoApelante, PrimeiroApelante, Apelante, Arguente, Ativa, Autor, AutorDoFato, Consignante, Credor, Demandante, Denunciante, Embargante, Excepto, Executante, Exequente, Expropriante, Impetrante, Impugnante, Interpelante, Interveniente, InventarianteParteAtiva, Nunciante, Oponente, Paciente, Plurima, PoloAtivo, Promovente, Proponente, Querelante, Reclamante, Reconvindo, Recorrente, PrimeiroRecorrente, SegundoRecorrente, Terceiro, RecorrenteAgravado, Requerente, Requisitante, Suscitante, Sustante, Vitima)
 Object.freeze(ObjectAtivo)
 

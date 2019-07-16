@@ -1,1 +1,1 @@
-{"version":3,"file":"deprecado.js","sourceRoot":"","sources":["../../src/partes/deprecado.ts"],"names":[],"mappings":";;AAAA,IAAY,aAGX;AAHD,WAAY,aAAa;IACvB,kCAAiB,CAAA;IACjB,wCAAuB,CAAA;AACzB,CAAC,EAHW,aAAa,GAAb,qBAAa,KAAb,qBAAa,QAGxB"}
+{"version":3,"file":"deprecado.js","sourceRoot":"","sources":["../../src/partes/deprecado.ts"],"names":[],"mappings":";;AAAA,IAAY,SAGX;AAHD,WAAY,SAAS;IACnB,8BAAiB,CAAA;IACjB,oCAAuB,CAAA;AACzB,CAAC,EAHW,SAAS,GAAT,iBAAS,KAAT,iBAAS,QAGpB"}

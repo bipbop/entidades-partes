@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInterpelado;
-(function (EnumInterpelado) {
-    EnumInterpelado["Interpelado"] = "Interpelado";
-})(EnumInterpelado = exports.EnumInterpelado || (exports.EnumInterpelado = {}));
+var Interpelado;
+(function (Interpelado) {
+    Interpelado["Interpelado"] = "Interpelado";
+})(Interpelado = exports.Interpelado || (exports.Interpelado = {}));
 //# sourceMappingURL=interpelado.js.map

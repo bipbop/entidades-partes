@@ -1,4 +1,4 @@
-export declare enum EnumInventor {
+export declare enum Inventor {
     NomeDoInventor = "NomeDoInventor",
     Inventor = "Inventor"
 }

@@ -38,35 +38,22 @@ mapValues(partes, (partes, idx) => writeFileSync(`partes/${paramCase(idx)}.ts`, 
 ${partes.map(parte => `  ${parte} = "${parte}",`).join('\n')}
 }\n`))
 
-writeFileSync('polos/index.ts', `export enum Polo { 
-${Object.keys(polosProvaveis).map(x=> `  ${x} = '${x}',`).join('\n')}
-}`);
-
+writeFileSync('polos/index.ts', `export enum Polo {
+${Object.keys(polosProvaveis).map(x => `  ${x} = '${x}',`).join('\n')}
+}`)
 
 mapValues(polosProvaveis, (values, idx) => {
   writeFileSync(`polos/${paramCase(idx)}.ts`, `${values.map(x => `export { ${x} } from '../partes/${paramCase(x || '')}'`).join('\n')}
-  
+
 ${values.map(x => `import { ${x} } from '../partes/${paramCase(x || '')}'`).join('\n')}
 import { Polo } from '.'
 
 export type Type${idx} = ${values.map(x => `${x}`).join(' | ')}
 
-export interface Dict${idx} {[name: string]: Type${idx}}
+export interface Dict${idx} { [name: string]: Type${idx} }
 export const Object${idx}: Dict${idx} = Object.assign({}, ${values.map(x => `${x}`).join(', ')})
 Object.freeze(Object${idx})
 
 export default Polo.${idx}
 `)
 })
-
-// mapValues(polosProvaveis, (polo, idx) => {
-//   `\n\nexport class PartePolo${idx} extends Parte<${polo.join(' | ')}> {
-//   protected static partes = {
-//     ${polo.map(p => `${p}: stringKeys(${p})`).join(',\n    ')}
-//   }
-
-//   protected static sinonimos = flatMap([${polo.join(', ')}], e => stringKeys(e))
-// }`
-// })
-
-// 'export type Polo = ${Object.keys(polosProvaveis).map(pp => `PartePolo${pp}`).join(' | ')}';

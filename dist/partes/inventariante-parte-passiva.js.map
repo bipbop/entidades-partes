@@ -1,1 +1,1 @@
-{"version":3,"file":"inventariante-parte-passiva.js","sourceRoot":"","sources":["../../src/partes/inventariante-parte-passiva.ts"],"names":[],"mappings":";;AAAA,IAAY,6BAEX;AAFD,WAAY,6BAA6B;IACvC,wFAAuD,CAAA;AACzD,CAAC,EAFW,6BAA6B,GAA7B,qCAA6B,KAA7B,qCAA6B,QAExC"}
+{"version":3,"file":"inventariante-parte-passiva.js","sourceRoot":"","sources":["../../src/partes/inventariante-parte-passiva.ts"],"names":[],"mappings":";;AAAA,IAAY,yBAEX;AAFD,WAAY,yBAAyB;IACnC,oFAAuD,CAAA;AACzD,CAAC,EAFW,yBAAyB,GAAzB,iCAAyB,KAAzB,iCAAyB,QAEpC"}

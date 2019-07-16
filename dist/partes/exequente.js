@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumExequente;
-(function (EnumExequente) {
-    EnumExequente["Exequente"] = "Exequente";
-    EnumExequente["Exequentes"] = "Exequentes";
-    EnumExequente["Exeqte"] = "Exeqte";
-    EnumExequente["Exqte"] = "Exqte";
-})(EnumExequente = exports.EnumExequente || (exports.EnumExequente = {}));
+var Exequente;
+(function (Exequente) {
+    Exequente["Exequente"] = "Exequente";
+    Exequente["Exequentes"] = "Exequentes";
+    Exequente["Exeqte"] = "Exeqte";
+    Exequente["Exqte"] = "Exqte";
+})(Exequente = exports.Exequente || (exports.Exequente = {}));
 //# sourceMappingURL=exequente.js.map

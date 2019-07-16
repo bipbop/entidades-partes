@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumRelator;
-(function (EnumRelator) {
-    EnumRelator["Relator"] = "Relator";
-    EnumRelator["Relatora"] = "Relatora";
-    EnumRelator["Relatores"] = "Relatores";
-})(EnumRelator = exports.EnumRelator || (exports.EnumRelator = {}));
+var Relator;
+(function (Relator) {
+    Relator["Relator"] = "Relator";
+    Relator["Relatora"] = "Relatora";
+    Relator["Relatores"] = "Relatores";
+})(Relator = exports.Relator || (exports.Relator = {}));
 //# sourceMappingURL=relator.js.map

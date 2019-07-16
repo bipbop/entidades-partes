@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumDeCujus;
-(function (EnumDeCujus) {
-    EnumDeCujus["DeCujus"] = "DeCujus";
-})(EnumDeCujus = exports.EnumDeCujus || (exports.EnumDeCujus = {}));
+var DeCujus;
+(function (DeCujus) {
+    DeCujus["DeCujus"] = "DeCujus";
+})(DeCujus = exports.DeCujus || (exports.DeCujus = {}));
 //# sourceMappingURL=de-cujus.js.map

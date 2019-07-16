@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumHabilitante;
-(function (EnumHabilitante) {
-    EnumHabilitante["Habilitante"] = "Habilitante";
-})(EnumHabilitante = exports.EnumHabilitante || (exports.EnumHabilitante = {}));
+var Habilitante;
+(function (Habilitante) {
+    Habilitante["Habilitante"] = "Habilitante";
+})(Habilitante = exports.Habilitante || (exports.Habilitante = {}));
 //# sourceMappingURL=habilitante.js.map

@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumExecutante;
-(function (EnumExecutante) {
-    EnumExecutante["Executante"] = "Executante";
-    EnumExecutante["Executantes"] = "Executantes";
-})(EnumExecutante = exports.EnumExecutante || (exports.EnumExecutante = {}));
+var Executante;
+(function (Executante) {
+    Executante["Executante"] = "Executante";
+    Executante["Executantes"] = "Executantes";
+})(Executante = exports.Executante || (exports.Executante = {}));
 //# sourceMappingURL=executante.js.map

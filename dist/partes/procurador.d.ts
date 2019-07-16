@@ -1,4 +1,4 @@
-export declare enum EnumProcurador {
+export declare enum Procurador {
     NomeDoProcurador = "NomeDoProcurador",
     Pge = "Pge",
     ProcASes = "ProcASes",

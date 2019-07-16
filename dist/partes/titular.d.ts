@@ -1,4 +1,4 @@
-export declare enum EnumTitular {
+export declare enum Titular {
     NomeDoTitular = "NomeDoTitular",
     Titular = "Titular"
 }

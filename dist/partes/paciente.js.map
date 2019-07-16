@@ -1,1 +1,1 @@
-{"version":3,"file":"paciente.js","sourceRoot":"","sources":["../../src/partes/paciente.ts"],"names":[],"mappings":";;AAAA,IAAY,YAKX;AALD,WAAY,YAAY;IACtB,qCAAqB,CAAA;IACrB,uCAAuB,CAAA;IACvB,+BAAe,CAAA;IACf,iCAAiB,CAAA;AACnB,CAAC,EALW,YAAY,GAAZ,oBAAY,KAAZ,oBAAY,QAKvB"}
+{"version":3,"file":"paciente.js","sourceRoot":"","sources":["../../src/partes/paciente.ts"],"names":[],"mappings":";;AAAA,IAAY,QAKX;AALD,WAAY,QAAQ;IAClB,iCAAqB,CAAA;IACrB,mCAAuB,CAAA;IACvB,2BAAe,CAAA;IACf,6BAAiB,CAAA;AACnB,CAAC,EALW,QAAQ,GAAR,gBAAQ,KAAR,gBAAQ,QAKnB"}

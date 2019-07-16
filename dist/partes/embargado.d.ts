@@ -1,4 +1,4 @@
-export declare enum EnumEmbargado {
+export declare enum Embargado {
     Embargado = "Embargado",
     Embargadoa = "Embargadoa",
     Embargadoas = "Embargadoas",

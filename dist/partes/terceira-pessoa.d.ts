@@ -1,4 +1,4 @@
-export declare enum EnumTerceiraPessoa {
+export declare enum TerceiraPessoa {
     Pessoa = "Pessoa",
     TerceiraPessoa = "TerceiraPessoa"
 }

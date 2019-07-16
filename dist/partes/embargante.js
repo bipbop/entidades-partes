@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumEmbargante;
-(function (EnumEmbargante) {
-    EnumEmbargante["Embargante"] = "Embargante";
-    EnumEmbargante["Embargantes"] = "Embargantes";
-    EnumEmbargante["Embargte"] = "Embargte";
-})(EnumEmbargante = exports.EnumEmbargante || (exports.EnumEmbargante = {}));
+var Embargante;
+(function (Embargante) {
+    Embargante["Embargante"] = "Embargante";
+    Embargante["Embargantes"] = "Embargantes";
+    Embargante["Embargte"] = "Embargte";
+})(Embargante = exports.Embargante || (exports.Embargante = {}));
 //# sourceMappingURL=embargante.js.map

@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumReconvindo;
-(function (EnumReconvindo) {
-    EnumReconvindo["Reconvinda"] = "Reconvinda";
-    EnumReconvindo["Reconvindas"] = "Reconvindas";
-    EnumReconvindo["Reconvindo"] = "Reconvindo";
-    EnumReconvindo["Reconvindos"] = "Reconvindos";
-})(EnumReconvindo = exports.EnumReconvindo || (exports.EnumReconvindo = {}));
+var Reconvindo;
+(function (Reconvindo) {
+    Reconvindo["Reconvinda"] = "Reconvinda";
+    Reconvindo["Reconvindas"] = "Reconvindas";
+    Reconvindo["Reconvindo"] = "Reconvindo";
+    Reconvindo["Reconvindos"] = "Reconvindos";
+})(Reconvindo = exports.Reconvindo || (exports.Reconvindo = {}));
 //# sourceMappingURL=reconvindo.js.map

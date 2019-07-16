@@ -1,4 +1,4 @@
-export declare enum EnumCoator {
+export declare enum Coator {
     ACoatora = "ACoatora",
     AutoridCoatora = "AutoridCoatora",
     AutoridadeCoatora = "AutoridadeCoatora",

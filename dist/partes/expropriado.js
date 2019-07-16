@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumExpropriado;
-(function (EnumExpropriado) {
-    EnumExpropriado["Expropriado"] = "Expropriado";
-})(EnumExpropriado = exports.EnumExpropriado || (exports.EnumExpropriado = {}));
+var Expropriado;
+(function (Expropriado) {
+    Expropriado["Expropriado"] = "Expropriado";
+})(Expropriado = exports.Expropriado || (exports.Expropriado = {}));
 //# sourceMappingURL=expropriado.js.map

@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumAssista;
-(function (EnumAssista) {
-    EnumAssista["Assista"] = "Assista";
-})(EnumAssista = exports.EnumAssista || (exports.EnumAssista = {}));
+var Assista;
+(function (Assista) {
+    Assista["Assista"] = "Assista";
+})(Assista = exports.Assista || (exports.Assista = {}));
 //# sourceMappingURL=assista.js.map

@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPerito;
-(function (EnumPerito) {
-    EnumPerito["Perita"] = "Perita";
-    EnumPerito["Perito"] = "Perito";
-})(EnumPerito = exports.EnumPerito || (exports.EnumPerito = {}));
+var Perito;
+(function (Perito) {
+    Perito["Perita"] = "Perita";
+    Perito["Perito"] = "Perito";
+})(Perito = exports.Perito || (exports.Perito = {}));
 //# sourceMappingURL=perito.js.map

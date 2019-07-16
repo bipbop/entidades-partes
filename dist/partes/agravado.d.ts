@@ -1,4 +1,4 @@
-export declare enum EnumAgravado {
+export declare enum Agravado {
     Agda = "Agda",
     Agdo = "Agdo",
     Agrdo = "Agrdo",

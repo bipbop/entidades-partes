@@ -1,11 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumExcepto;
-(function (EnumExcepto) {
-    EnumExcepto["Excepta"] = "Excepta";
-    EnumExcepto["Exceptas"] = "Exceptas";
-    EnumExcepto["Excepto"] = "Excepto";
-    EnumExcepto["Exceptos"] = "Exceptos";
-    EnumExcepto["ExcptoAS"] = "ExcptoAS";
-})(EnumExcepto = exports.EnumExcepto || (exports.EnumExcepto = {}));
+var Excepto;
+(function (Excepto) {
+    Excepto["Excepta"] = "Excepta";
+    Excepto["Exceptas"] = "Exceptas";
+    Excepto["Excepto"] = "Excepto";
+    Excepto["Exceptos"] = "Exceptos";
+    Excepto["ExcptoAS"] = "ExcptoAS";
+})(Excepto = exports.Excepto || (exports.Excepto = {}));
 //# sourceMappingURL=excepto.js.map

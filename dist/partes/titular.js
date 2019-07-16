@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumTitular;
-(function (EnumTitular) {
-    EnumTitular["NomeDoTitular"] = "NomeDoTitular";
-    EnumTitular["Titular"] = "Titular";
-})(EnumTitular = exports.EnumTitular || (exports.EnumTitular = {}));
+var Titular;
+(function (Titular) {
+    Titular["NomeDoTitular"] = "NomeDoTitular";
+    Titular["Titular"] = "Titular";
+})(Titular = exports.Titular || (exports.Titular = {}));
 //# sourceMappingURL=titular.js.map

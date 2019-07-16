@@ -1,4 +1,4 @@
-export declare enum EnumImpetrante {
+export declare enum Impetrante {
     Impetrante = "Impetrante",
     Impetrantes = "Impetrantes",
     Impte = "Impte",

@@ -1,4 +1,4 @@
-export declare enum EnumPlurima {
+export declare enum Plurima {
     Plurima = "Plurima",
     Plurimas = "Plurimas"
 }

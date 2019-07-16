@@ -1,14 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumProcurador;
-(function (EnumProcurador) {
-    EnumProcurador["NomeDoProcurador"] = "NomeDoProcurador";
-    EnumProcurador["Pge"] = "Pge";
-    EnumProcurador["ProcASes"] = "ProcASes";
-    EnumProcurador["Procurador"] = "Procurador";
-    EnumProcurador["Procuradora"] = "Procuradora";
-    EnumProcurador["Procuradores"] = "Procuradores";
-    EnumProcurador["ProcGeral"] = "ProcGeral";
-    EnumProcurador["ProcDoEstado"] = "ProcDoEstado";
-})(EnumProcurador = exports.EnumProcurador || (exports.EnumProcurador = {}));
+var Procurador;
+(function (Procurador) {
+    Procurador["NomeDoProcurador"] = "NomeDoProcurador";
+    Procurador["Pge"] = "Pge";
+    Procurador["ProcASes"] = "ProcASes";
+    Procurador["Procurador"] = "Procurador";
+    Procurador["Procuradora"] = "Procuradora";
+    Procurador["Procuradores"] = "Procuradores";
+    Procurador["ProcGeral"] = "ProcGeral";
+    Procurador["ProcDoEstado"] = "ProcDoEstado";
+})(Procurador = exports.Procurador || (exports.Procurador = {}));
 //# sourceMappingURL=procurador.js.map

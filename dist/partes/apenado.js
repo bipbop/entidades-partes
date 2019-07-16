@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumApenado;
-(function (EnumApenado) {
-    EnumApenado["Apenado"] = "Apenado";
-})(EnumApenado = exports.EnumApenado || (exports.EnumApenado = {}));
+var Apenado;
+(function (Apenado) {
+    Apenado["Apenado"] = "Apenado";
+})(Apenado = exports.Apenado || (exports.Apenado = {}));
 //# sourceMappingURL=apenado.js.map

@@ -1,4 +1,4 @@
-export declare enum EnumSegundoRecorrente {
+export declare enum SegundoRecorrente {
     Recorrente = "Recorrente",
     SegundoRecorrente = "SegundoRecorrente"
 }

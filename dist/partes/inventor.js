@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInventor;
-(function (EnumInventor) {
-    EnumInventor["NomeDoInventor"] = "NomeDoInventor";
-    EnumInventor["Inventor"] = "Inventor";
-})(EnumInventor = exports.EnumInventor || (exports.EnumInventor = {}));
+var Inventor;
+(function (Inventor) {
+    Inventor["NomeDoInventor"] = "NomeDoInventor";
+    Inventor["Inventor"] = "Inventor";
+})(Inventor = exports.Inventor || (exports.Inventor = {}));
 //# sourceMappingURL=inventor.js.map

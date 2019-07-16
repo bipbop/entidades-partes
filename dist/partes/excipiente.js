@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumExcipiente;
-(function (EnumExcipiente) {
-    EnumExcipiente["Excipiente"] = "Excipiente";
-    EnumExcipiente["Excipientes"] = "Excipientes";
-    EnumExcipiente["ExcpteS"] = "ExcpteS";
-})(EnumExcipiente = exports.EnumExcipiente || (exports.EnumExcipiente = {}));
+var Excipiente;
+(function (Excipiente) {
+    Excipiente["Excipiente"] = "Excipiente";
+    Excipiente["Excipientes"] = "Excipientes";
+    Excipiente["ExcpteS"] = "ExcpteS";
+})(Excipiente = exports.Excipiente || (exports.Excipiente = {}));
 //# sourceMappingURL=excipiente.js.map

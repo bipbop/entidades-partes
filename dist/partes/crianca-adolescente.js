@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumCriancaAdolescente;
-(function (EnumCriancaAdolescente) {
-    EnumCriancaAdolescente["CriancaAdole"] = "CriancaAdole";
-    EnumCriancaAdolescente["CriancaAdolescente"] = "CriancaAdolescente";
-})(EnumCriancaAdolescente = exports.EnumCriancaAdolescente || (exports.EnumCriancaAdolescente = {}));
+var CriancaAdolescente;
+(function (CriancaAdolescente) {
+    CriancaAdolescente["CriancaAdole"] = "CriancaAdole";
+    CriancaAdolescente["CriancaAdolescente"] = "CriancaAdolescente";
+})(CriancaAdolescente = exports.CriancaAdolescente || (exports.CriancaAdolescente = {}));
 //# sourceMappingURL=crianca-adolescente.js.map

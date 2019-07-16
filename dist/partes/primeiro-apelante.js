@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPrimeiroApelante;
-(function (EnumPrimeiroApelante) {
-    EnumPrimeiroApelante["Apelante"] = "Apelante";
-    EnumPrimeiroApelante["PrimeiroApelante"] = "PrimeiroApelante";
-})(EnumPrimeiroApelante = exports.EnumPrimeiroApelante || (exports.EnumPrimeiroApelante = {}));
+var PrimeiroApelante;
+(function (PrimeiroApelante) {
+    PrimeiroApelante["Apelante"] = "Apelante";
+    PrimeiroApelante["PrimeiroApelante"] = "PrimeiroApelante";
+})(PrimeiroApelante = exports.PrimeiroApelante || (exports.PrimeiroApelante = {}));
 //# sourceMappingURL=primeiro-apelante.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"revisor.js","sourceRoot":"","sources":["../../src/partes/revisor.ts"],"names":[],"mappings":";;AAAA,IAAY,WAIX;AAJD,WAAY,WAAW;IACrB,kCAAmB,CAAA;IACnB,oCAAqB,CAAA;IACrB,sCAAuB,CAAA;AACzB,CAAC,EAJW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAItB"}
+{"version":3,"file":"revisor.js","sourceRoot":"","sources":["../../src/partes/revisor.ts"],"names":[],"mappings":";;AAAA,IAAY,OAIX;AAJD,WAAY,OAAO;IACjB,8BAAmB,CAAA;IACnB,gCAAqB,CAAA;IACrB,kCAAuB,CAAA;AACzB,CAAC,EAJW,OAAO,GAAP,eAAO,KAAP,eAAO,QAIlB"}

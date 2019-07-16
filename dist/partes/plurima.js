@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPlurima;
-(function (EnumPlurima) {
-    EnumPlurima["Plurima"] = "Plurima";
-    EnumPlurima["Plurimas"] = "Plurimas";
-})(EnumPlurima = exports.EnumPlurima || (exports.EnumPlurima = {}));
+var Plurima;
+(function (Plurima) {
+    Plurima["Plurima"] = "Plurima";
+    Plurima["Plurimas"] = "Plurimas";
+})(Plurima = exports.Plurima || (exports.Plurima = {}));
 //# sourceMappingURL=plurima.js.map

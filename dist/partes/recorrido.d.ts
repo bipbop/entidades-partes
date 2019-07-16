@@ -1,4 +1,4 @@
-export declare enum EnumRecorrido {
+export declare enum Recorrido {
     Recdo = "Recdo",
     RecdoAS = "RecdoAS",
     Recorrida = "Recorrida",

@@ -31,7 +31,7 @@ export { TerceiroInteressado } from '../partes/terceiro-interessado'
 export { Terintcer } from '../partes/terintcer'
 export { Terintinc } from '../partes/terintinc'
 export { Testemunha } from '../partes/testemunha'
-  
+
 import { Adolescente } from '../partes/adolescente'
 import { Admterc } from '../partes/admterc'
 import { Assista } from '../partes/assista'
@@ -69,7 +69,7 @@ import { Polo } from '.'
 
 export type TypeTerceiro = Adolescente | Admterc | Assista | AssMP | Autoridade | Beneficiario | ChamadoAoProcesso | Comunicado | Comunicante | Corrigente | Corrigido | CriancaAdolescente | DeCujus | Dilig | EntidadeRelacionada | EntrePartes | Falecido | Habilitado | Habilitante | Informante | Infte | Interessado | Marca | Perito | Procurador | Representante | Inventariante | TerceiraPessoa | Terceiro | TerceiroInteressado | Terintcer | Terintinc | Testemunha
 
-export interface DictTerceiro {[name: string]: TypeTerceiro}
+export interface DictTerceiro { [name: string]: TypeTerceiro }
 export const ObjectTerceiro: DictTerceiro = Object.assign({}, Adolescente, Admterc, Assista, AssMP, Autoridade, Beneficiario, ChamadoAoProcesso, Comunicado, Comunicante, Corrigente, Corrigido, CriancaAdolescente, DeCujus, Dilig, EntidadeRelacionada, EntrePartes, Falecido, Habilitado, Habilitante, Informante, Infte, Interessado, Marca, Perito, Procurador, Representante, Inventariante, TerceiraPessoa, Terceiro, TerceiroInteressado, Terintcer, Terintinc, Testemunha)
 Object.freeze(ObjectTerceiro)
 

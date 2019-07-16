@@ -1,1 +1,1 @@
-{"version":3,"file":"entidade-relacionada.js","sourceRoot":"","sources":["../../src/partes/entidade-relacionada.ts"],"names":[],"mappings":";;AAAA,IAAY,uBAGX;AAHD,WAAY,uBAAuB;IACjC,sEAA2C,CAAA;IAC3C,0EAA+C,CAAA;AACjD,CAAC,EAHW,uBAAuB,GAAvB,+BAAuB,KAAvB,+BAAuB,QAGlC"}
+{"version":3,"file":"entidade-relacionada.js","sourceRoot":"","sources":["../../src/partes/entidade-relacionada.ts"],"names":[],"mappings":";;AAAA,IAAY,mBAGX;AAHD,WAAY,mBAAmB;IAC7B,kEAA2C,CAAA;IAC3C,sEAA+C,CAAA;AACjD,CAAC,EAHW,mBAAmB,GAAnB,2BAAmB,KAAnB,2BAAmB,QAG9B"}

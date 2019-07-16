@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumRepresentado;
-(function (EnumRepresentado) {
-    EnumRepresentado["Representada"] = "Representada";
-    EnumRepresentado["Representadas"] = "Representadas";
-    EnumRepresentado["Representado"] = "Representado";
-    EnumRepresentado["Representados"] = "Representados";
-    EnumRepresentado["Representadoa"] = "Representadoa";
-    EnumRepresentado["RepresentadoAS"] = "RepresentadoAS";
-})(EnumRepresentado = exports.EnumRepresentado || (exports.EnumRepresentado = {}));
+var Representado;
+(function (Representado) {
+    Representado["Representada"] = "Representada";
+    Representado["Representadas"] = "Representadas";
+    Representado["Representado"] = "Representado";
+    Representado["Representados"] = "Representados";
+    Representado["Representadoa"] = "Representadoa";
+    Representado["RepresentadoAS"] = "RepresentadoAS";
+})(Representado = exports.Representado || (exports.Representado = {}));
 //# sourceMappingURL=representado.js.map

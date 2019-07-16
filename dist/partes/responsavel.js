@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumResponsavel;
-(function (EnumResponsavel) {
-    EnumResponsavel["Responsavel"] = "Responsavel";
-})(EnumResponsavel = exports.EnumResponsavel || (exports.EnumResponsavel = {}));
+var Responsavel;
+(function (Responsavel) {
+    Responsavel["Responsavel"] = "Responsavel";
+})(Responsavel = exports.Responsavel || (exports.Responsavel = {}));
 //# sourceMappingURL=responsavel.js.map

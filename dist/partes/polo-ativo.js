@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPoloAtivo;
-(function (EnumPoloAtivo) {
-    EnumPoloAtivo["PoloAtivo"] = "PoloAtivo";
-})(EnumPoloAtivo = exports.EnumPoloAtivo || (exports.EnumPoloAtivo = {}));
+var PoloAtivo;
+(function (PoloAtivo) {
+    PoloAtivo["PoloAtivo"] = "PoloAtivo";
+})(PoloAtivo = exports.PoloAtivo || (exports.PoloAtivo = {}));
 //# sourceMappingURL=polo-ativo.js.map

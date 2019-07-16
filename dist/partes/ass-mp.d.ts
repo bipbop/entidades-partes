@@ -1,3 +1,3 @@
-export declare enum EnumAssMP {
+export declare enum AssMP {
     AssMP = "AssMP"
 }

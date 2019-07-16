@@ -1,3 +1,3 @@
-export declare enum EnumLitisconsortePassivoNecessario {
+export declare enum LitisconsortePassivoNecessario {
     LitisconsortePassivoNecessario = "LitisconsortePassivoNecessario"
 }

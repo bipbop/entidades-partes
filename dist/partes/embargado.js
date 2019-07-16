@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumEmbargado;
-(function (EnumEmbargado) {
-    EnumEmbargado["Embargado"] = "Embargado";
-    EnumEmbargado["Embargadoa"] = "Embargadoa";
-    EnumEmbargado["Embargadoas"] = "Embargadoas";
-    EnumEmbargado["Embargados"] = "Embargados";
-    EnumEmbargado["Embargda"] = "Embargda";
-    EnumEmbargado["Embargdo"] = "Embargdo";
-})(EnumEmbargado = exports.EnumEmbargado || (exports.EnumEmbargado = {}));
+var Embargado;
+(function (Embargado) {
+    Embargado["Embargado"] = "Embargado";
+    Embargado["Embargadoa"] = "Embargadoa";
+    Embargado["Embargadoas"] = "Embargadoas";
+    Embargado["Embargados"] = "Embargados";
+    Embargado["Embargda"] = "Embargda";
+    Embargado["Embargdo"] = "Embargdo";
+})(Embargado = exports.Embargado || (exports.Embargado = {}));
 //# sourceMappingURL=embargado.js.map

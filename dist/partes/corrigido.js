@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumCorrigido;
-(function (EnumCorrigido) {
-    EnumCorrigido["Corrigido"] = "Corrigido";
-})(EnumCorrigido = exports.EnumCorrigido || (exports.EnumCorrigido = {}));
+var Corrigido;
+(function (Corrigido) {
+    Corrigido["Corrigido"] = "Corrigido";
+})(Corrigido = exports.Corrigido || (exports.Corrigido = {}));
 //# sourceMappingURL=corrigido.js.map

@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumCredor;
-(function (EnumCredor) {
-    EnumCredor["Credor"] = "Credor";
-})(EnumCredor = exports.EnumCredor || (exports.EnumCredor = {}));
+var Credor;
+(function (Credor) {
+    Credor["Credor"] = "Credor";
+})(Credor = exports.Credor || (exports.Credor = {}));
 //# sourceMappingURL=credor.js.map

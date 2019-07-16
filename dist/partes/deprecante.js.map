@@ -1,1 +1,1 @@
-{"version":3,"file":"deprecante.js","sourceRoot":"","sources":["../../src/partes/deprecante.ts"],"names":[],"mappings":";;AAAA,IAAY,cAGX;AAHD,WAAY,cAAc;IACxB,mCAAiB,CAAA;IACjB,2CAAyB,CAAA;AAC3B,CAAC,EAHW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAGzB"}
+{"version":3,"file":"deprecante.js","sourceRoot":"","sources":["../../src/partes/deprecante.ts"],"names":[],"mappings":";;AAAA,IAAY,UAGX;AAHD,WAAY,UAAU;IACpB,+BAAiB,CAAA;IACjB,uCAAyB,CAAA;AAC3B,CAAC,EAHW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAGrB"}

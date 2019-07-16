@@ -1,1 +1,1 @@
-{"version":3,"file":"agravado-recorrente.js","sourceRoot":"","sources":["../../src/partes/agravado-recorrente.ts"],"names":[],"mappings":";;AAAA,IAAY,sBAGX;AAHD,WAAY,sBAAsB;IAChC,yEAA+C,CAAA;IAC/C,mEAAyC,CAAA;AAC3C,CAAC,EAHW,sBAAsB,GAAtB,8BAAsB,KAAtB,8BAAsB,QAGjC"}
+{"version":3,"file":"agravado-recorrente.js","sourceRoot":"","sources":["../../src/partes/agravado-recorrente.ts"],"names":[],"mappings":";;AAAA,IAAY,kBAGX;AAHD,WAAY,kBAAkB;IAC5B,qEAA+C,CAAA;IAC/C,+DAAyC,CAAA;AAC3C,CAAC,EAHW,kBAAkB,GAAlB,0BAAkB,KAAlB,0BAAkB,QAG7B"}

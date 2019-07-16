@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumMassaFalida;
-(function (EnumMassaFalida) {
-    EnumMassaFalida["MassaFalida"] = "MassaFalida";
-})(EnumMassaFalida = exports.EnumMassaFalida || (exports.EnumMassaFalida = {}));
+var MassaFalida;
+(function (MassaFalida) {
+    MassaFalida["MassaFalida"] = "MassaFalida";
+})(MassaFalida = exports.MassaFalida || (exports.MassaFalida = {}));
 //# sourceMappingURL=massa-falida.js.map

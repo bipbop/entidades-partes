@@ -1,4 +1,4 @@
-export declare enum EnumExecutante {
+export declare enum Executante {
     Executante = "Executante",
     Executantes = "Executantes"
 }

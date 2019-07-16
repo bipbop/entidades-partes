@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumRecorrente;
-(function (EnumRecorrente) {
-    EnumRecorrente["Recorrente"] = "Recorrente";
-    EnumRecorrente["Recorrentes"] = "Recorrentes";
-    EnumRecorrente["Recte"] = "Recte";
-    EnumRecorrente["RecteS"] = "RecteS";
-})(EnumRecorrente = exports.EnumRecorrente || (exports.EnumRecorrente = {}));
+var Recorrente;
+(function (Recorrente) {
+    Recorrente["Recorrente"] = "Recorrente";
+    Recorrente["Recorrentes"] = "Recorrentes";
+    Recorrente["Recte"] = "Recte";
+    Recorrente["RecteS"] = "RecteS";
+})(Recorrente = exports.Recorrente || (exports.Recorrente = {}));
 //# sourceMappingURL=recorrente.js.map

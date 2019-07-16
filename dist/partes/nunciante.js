@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumNunciante;
-(function (EnumNunciante) {
-    EnumNunciante["Nunciante"] = "Nunciante";
-})(EnumNunciante = exports.EnumNunciante || (exports.EnumNunciante = {}));
+var Nunciante;
+(function (Nunciante) {
+    Nunciante["Nunciante"] = "Nunciante";
+})(Nunciante = exports.Nunciante || (exports.Nunciante = {}));
 //# sourceMappingURL=nunciante.js.map

@@ -54,7 +54,7 @@ export { Sentenciado } from '../partes/sentenciado'
 export { SujeitoPassivo } from '../partes/sujeito-passivo'
 export { Suscitado } from '../partes/suscitado'
 export { Sustado } from '../partes/sustado'
-  
+
 import { Acusado } from '../partes/acusado'
 import { AcusadoPunibilidadeExtinta } from '../partes/acusado-punibilidade-extinta'
 import { Agravado } from '../partes/agravado'
@@ -115,7 +115,7 @@ import { Polo } from '.'
 
 export type TypePassivo = Acusado | AcusadoPunibilidadeExtinta | Agravado | AgravadoRecorrente | AgravanteRecorrido | Apelado | ApelanteApelado | Apenado | Arguido | Autuado | Coator | Condenado | Consignatario | Demandado | Denunciado | Devedor | Embargado | Excipiente | Executado | Expropriado | Extraditado | Flagranteado | Impetrado | Impugnado | Indiciado | Infrator | Inquirido | Interditado | Interditando | Interpelado | Inventariado | InventariantePartePassiva | Investigado | LitisconsortePassivo | LitisconsortePassivoNecessario | MassaFalida | MassaInsolvente | Inventor | Nunciado | Passiva | PoloPassivo | Promovido | Querelado | Reclamado | Reconvinte | Recorrido | RecorridoAgravante | Reeducando | Requerido | Confinante | Requisitado | Reu | Sentenciado | SujeitoPassivo | Suscitado | Sustado
 
-export interface DictPassivo {[name: string]: TypePassivo}
+export interface DictPassivo { [name: string]: TypePassivo }
 export const ObjectPassivo: DictPassivo = Object.assign({}, Acusado, AcusadoPunibilidadeExtinta, Agravado, AgravadoRecorrente, AgravanteRecorrido, Apelado, ApelanteApelado, Apenado, Arguido, Autuado, Coator, Condenado, Consignatario, Demandado, Denunciado, Devedor, Embargado, Excipiente, Executado, Expropriado, Extraditado, Flagranteado, Impetrado, Impugnado, Indiciado, Infrator, Inquirido, Interditado, Interditando, Interpelado, Inventariado, InventariantePartePassiva, Investigado, LitisconsortePassivo, LitisconsortePassivoNecessario, MassaFalida, MassaInsolvente, Inventor, Nunciado, Passiva, PoloPassivo, Promovido, Querelado, Reclamado, Reconvinte, Recorrido, RecorridoAgravante, Reeducando, Requerido, Confinante, Requisitado, Reu, Sentenciado, SujeitoPassivo, Suscitado, Sustado)
 Object.freeze(ObjectPassivo)
 

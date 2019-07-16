@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumMarca;
-(function (EnumMarca) {
-    EnumMarca["Marca"] = "Marca";
-})(EnumMarca = exports.EnumMarca || (exports.EnumMarca = {}));
+var Marca;
+(function (Marca) {
+    Marca["Marca"] = "Marca";
+})(Marca = exports.Marca || (exports.Marca = {}));
 //# sourceMappingURL=marca.js.map

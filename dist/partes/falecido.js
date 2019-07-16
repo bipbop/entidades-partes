@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumFalecido;
-(function (EnumFalecido) {
-    EnumFalecido["Falecido"] = "Falecido";
-})(EnumFalecido = exports.EnumFalecido || (exports.EnumFalecido = {}));
+var Falecido;
+(function (Falecido) {
+    Falecido["Falecido"] = "Falecido";
+})(Falecido = exports.Falecido || (exports.Falecido = {}));
 //# sourceMappingURL=falecido.js.map

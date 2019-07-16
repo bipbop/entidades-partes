@@ -1,4 +1,4 @@
-export declare enum EnumAgravanteRecorrido {
+export declare enum AgravanteRecorrido {
     AgravantesERecorridos = "AgravantesERecorridos",
     AgravanteRecorrido = "AgravanteRecorrido"
 }

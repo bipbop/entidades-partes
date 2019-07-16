@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumContratante;
-(function (EnumContratante) {
-    EnumContratante["Contratante"] = "Contratante";
-})(EnumContratante = exports.EnumContratante || (exports.EnumContratante = {}));
+var Contratante;
+(function (Contratante) {
+    Contratante["Contratante"] = "Contratante";
+})(Contratante = exports.Contratante || (exports.Contratante = {}));
 //# sourceMappingURL=contratante.js.map

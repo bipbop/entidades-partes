@@ -1,3 +1,3 @@
-export declare enum EnumJuizoSentenciante {
+export declare enum JuizoSentenciante {
     JuizoSentenciante = "JuizoSentenciante"
 }

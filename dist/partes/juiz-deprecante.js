@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumJuizDeprecante;
-(function (EnumJuizDeprecante) {
-    EnumJuizDeprecante["JDpcte"] = "JDpcte";
-    EnumJuizDeprecante["JuizDeprecante"] = "JuizDeprecante";
-})(EnumJuizDeprecante = exports.EnumJuizDeprecante || (exports.EnumJuizDeprecante = {}));
+var JuizDeprecante;
+(function (JuizDeprecante) {
+    JuizDeprecante["JDpcte"] = "JDpcte";
+    JuizDeprecante["JuizDeprecante"] = "JuizDeprecante";
+})(JuizDeprecante = exports.JuizDeprecante || (exports.JuizDeprecante = {}));
 //# sourceMappingURL=juiz-deprecante.js.map

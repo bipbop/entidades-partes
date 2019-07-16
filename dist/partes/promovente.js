@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPromovente;
-(function (EnumPromovente) {
-    EnumPromovente["Promovente"] = "Promovente";
-    EnumPromovente["Promoventes"] = "Promoventes";
-})(EnumPromovente = exports.EnumPromovente || (exports.EnumPromovente = {}));
+var Promovente;
+(function (Promovente) {
+    Promovente["Promovente"] = "Promovente";
+    Promovente["Promoventes"] = "Promoventes";
+})(Promovente = exports.Promovente || (exports.Promovente = {}));
 //# sourceMappingURL=promovente.js.map

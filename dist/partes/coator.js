@@ -1,11 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumCoator;
-(function (EnumCoator) {
-    EnumCoator["ACoatora"] = "ACoatora";
-    EnumCoator["AutoridCoatora"] = "AutoridCoatora";
-    EnumCoator["AutoridadeCoatora"] = "AutoridadeCoatora";
-    EnumCoator["Coator"] = "Coator";
-    EnumCoator["CoatoraSes"] = "CoatoraSes";
-})(EnumCoator = exports.EnumCoator || (exports.EnumCoator = {}));
+var Coator;
+(function (Coator) {
+    Coator["ACoatora"] = "ACoatora";
+    Coator["AutoridCoatora"] = "AutoridCoatora";
+    Coator["AutoridadeCoatora"] = "AutoridadeCoatora";
+    Coator["Coator"] = "Coator";
+    Coator["CoatoraSes"] = "CoatoraSes";
+})(Coator = exports.Coator || (exports.Coator = {}));
 //# sourceMappingURL=coator.js.map

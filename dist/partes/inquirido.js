@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInquirido;
-(function (EnumInquirido) {
-    EnumInquirido["Inquirido"] = "Inquirido";
-    EnumInquirido["Inquiridos"] = "Inquiridos";
-})(EnumInquirido = exports.EnumInquirido || (exports.EnumInquirido = {}));
+var Inquirido;
+(function (Inquirido) {
+    Inquirido["Inquirido"] = "Inquirido";
+    Inquirido["Inquiridos"] = "Inquiridos";
+})(Inquirido = exports.Inquirido || (exports.Inquirido = {}));
 //# sourceMappingURL=inquirido.js.map

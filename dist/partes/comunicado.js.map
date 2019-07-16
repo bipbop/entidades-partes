@@ -1,1 +1,1 @@
-{"version":3,"file":"comunicado.js","sourceRoot":"","sources":["../../src/partes/comunicado.ts"],"names":[],"mappings":";;AAAA,IAAY,cAEX;AAFD,WAAY,cAAc;IACxB,2CAAyB,CAAA;AAC3B,CAAC,EAFW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAEzB"}
+{"version":3,"file":"comunicado.js","sourceRoot":"","sources":["../../src/partes/comunicado.ts"],"names":[],"mappings":";;AAAA,IAAY,UAEX;AAFD,WAAY,UAAU;IACpB,uCAAyB,CAAA;AAC3B,CAAC,EAFW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAErB"}

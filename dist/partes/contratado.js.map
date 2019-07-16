@@ -1,1 +1,1 @@
-{"version":3,"file":"contratado.js","sourceRoot":"","sources":["../../src/partes/contratado.ts"],"names":[],"mappings":";;AAAA,IAAY,cAIX;AAJD,WAAY,cAAc;IACxB,2CAAyB,CAAA;IACzB,2CAAyB,CAAA;IACzB,6CAA2B,CAAA;AAC7B,CAAC,EAJW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAIzB"}
+{"version":3,"file":"contratado.js","sourceRoot":"","sources":["../../src/partes/contratado.ts"],"names":[],"mappings":";;AAAA,IAAY,UAIX;AAJD,WAAY,UAAU;IACpB,uCAAyB,CAAA;IACzB,uCAAyB,CAAA;IACzB,yCAA2B,CAAA;AAC7B,CAAC,EAJW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAIrB"}

@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumConsignatario;
-(function (EnumConsignatario) {
-    EnumConsignatario["Consignatario"] = "Consignatario";
-    EnumConsignatario["Consignatarios"] = "Consignatarios";
-})(EnumConsignatario = exports.EnumConsignatario || (exports.EnumConsignatario = {}));
+var Consignatario;
+(function (Consignatario) {
+    Consignatario["Consignatario"] = "Consignatario";
+    Consignatario["Consignatarios"] = "Consignatarios";
+})(Consignatario = exports.Consignatario || (exports.Consignatario = {}));
 //# sourceMappingURL=consignatario.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"perito.js","sourceRoot":"","sources":["../../src/partes/perito.ts"],"names":[],"mappings":";;AAAA,IAAY,UAGX;AAHD,WAAY,UAAU;IACpB,+BAAiB,CAAA;IACjB,+BAAiB,CAAA;AACnB,CAAC,EAHW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAGrB"}
+{"version":3,"file":"perito.js","sourceRoot":"","sources":["../../src/partes/perito.ts"],"names":[],"mappings":";;AAAA,IAAY,MAGX;AAHD,WAAY,MAAM;IAChB,2BAAiB,CAAA;IACjB,2BAAiB,CAAA;AACnB,CAAC,EAHW,MAAM,GAAN,cAAM,KAAN,cAAM,QAGjB"}

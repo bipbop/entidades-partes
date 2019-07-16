@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumContribuintePrincipal;
-(function (EnumContribuintePrincipal) {
-    EnumContribuintePrincipal["ContribuintePrincipal"] = "ContribuintePrincipal";
-})(EnumContribuintePrincipal = exports.EnumContribuintePrincipal || (exports.EnumContribuintePrincipal = {}));
+var ContribuintePrincipal;
+(function (ContribuintePrincipal) {
+    ContribuintePrincipal["ContribuintePrincipal"] = "ContribuintePrincipal";
+})(ContribuintePrincipal = exports.ContribuintePrincipal || (exports.ContribuintePrincipal = {}));
 //# sourceMappingURL=contribuinte-principal.js.map

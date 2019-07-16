@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumSujeitoPassivo;
-(function (EnumSujeitoPassivo) {
-    EnumSujeitoPassivo["SujeitoPassivo"] = "SujeitoPassivo";
-})(EnumSujeitoPassivo = exports.EnumSujeitoPassivo || (exports.EnumSujeitoPassivo = {}));
+var SujeitoPassivo;
+(function (SujeitoPassivo) {
+    SujeitoPassivo["SujeitoPassivo"] = "SujeitoPassivo";
+})(SujeitoPassivo = exports.SujeitoPassivo || (exports.SujeitoPassivo = {}));
 //# sourceMappingURL=sujeito-passivo.js.map

@@ -1,14 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumReu;
-(function (EnumReu) {
-    EnumReu["Reu"] = "Reu";
-    EnumReu["Reus"] = "Reus";
-    EnumReu["ReuS"] = "ReuS";
-    EnumReu["Re"] = "Re";
-    EnumReu["Res"] = "Res";
-    EnumReu["Reues"] = "Reues";
-    EnumReu["ReuPreso"] = "ReuPreso";
-    EnumReu["Parter"] = "Parter";
-})(EnumReu = exports.EnumReu || (exports.EnumReu = {}));
+var Reu;
+(function (Reu) {
+    Reu["Reu"] = "Reu";
+    Reu["Reus"] = "Reus";
+    Reu["ReuS"] = "ReuS";
+    Reu["Re"] = "Re";
+    Reu["Res"] = "Res";
+    Reu["Reues"] = "Reues";
+    Reu["ReuPreso"] = "ReuPreso";
+    Reu["Parter"] = "Parter";
+})(Reu = exports.Reu || (exports.Reu = {}));
 //# sourceMappingURL=reu.js.map

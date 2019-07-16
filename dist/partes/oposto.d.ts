@@ -1,3 +1,3 @@
-export declare enum EnumOposto {
+export declare enum Oposto {
     Oposto = "Oposto"
 }

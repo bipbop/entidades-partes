@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumTerintinc;
-(function (EnumTerintinc) {
-    EnumTerintinc["Terintinc"] = "Terintinc";
-})(EnumTerintinc = exports.EnumTerintinc || (exports.EnumTerintinc = {}));
+var Terintinc;
+(function (Terintinc) {
+    Terintinc["Terintinc"] = "Terintinc";
+})(Terintinc = exports.Terintinc || (exports.Terintinc = {}));
 //# sourceMappingURL=terintinc.js.map

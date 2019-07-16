@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumDeprecante;
-(function (EnumDeprecante) {
-    EnumDeprecante["Depcte"] = "Depcte";
-    EnumDeprecante["Deprecante"] = "Deprecante";
-})(EnumDeprecante = exports.EnumDeprecante || (exports.EnumDeprecante = {}));
+var Deprecante;
+(function (Deprecante) {
+    Deprecante["Depcte"] = "Depcte";
+    Deprecante["Deprecante"] = "Deprecante";
+})(Deprecante = exports.Deprecante || (exports.Deprecante = {}));
 //# sourceMappingURL=deprecante.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"requisitante.js","sourceRoot":"","sources":["../../src/partes/requisitante.ts"],"names":[],"mappings":";;AAAA,IAAY,gBAGX;AAHD,WAAY,gBAAgB;IAC1B,iDAA6B,CAAA;IAC7B,mDAA+B,CAAA;AACjC,CAAC,EAHW,gBAAgB,GAAhB,wBAAgB,KAAhB,wBAAgB,QAG3B"}
+{"version":3,"file":"requisitante.js","sourceRoot":"","sources":["../../src/partes/requisitante.ts"],"names":[],"mappings":";;AAAA,IAAY,YAGX;AAHD,WAAY,YAAY;IACtB,6CAA6B,CAAA;IAC7B,+CAA+B,CAAA;AACjC,CAAC,EAHW,YAAY,GAAZ,oBAAY,KAAZ,oBAAY,QAGvB"}

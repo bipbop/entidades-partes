@@ -1,4 +1,4 @@
-export declare enum EnumImpugnado {
+export declare enum Impugnado {
     Impugdo = "Impugdo",
     Impugnada = "Impugnada",
     Impugnadas = "Impugnadas",

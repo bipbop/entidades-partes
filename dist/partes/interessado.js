@@ -1,18 +1,18 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInteressado;
-(function (EnumInteressado) {
-    EnumInteressado["Intda"] = "Intda";
-    EnumInteressado["Intdo"] = "Intdo";
-    EnumInteressado["IntdoAS"] = "IntdoAS";
-    EnumInteressado["Interesdo"] = "Interesdo";
-    EnumInteressado["Interessad"] = "Interessad";
-    EnumInteressado["Interessada"] = "Interessada";
-    EnumInteressado["Interessadas"] = "Interessadas";
-    EnumInteressado["Interessado"] = "Interessado";
-    EnumInteressado["InteressadoProcedencia"] = "InteressadoProcedencia";
-    EnumInteressado["Interessados"] = "Interessados";
-    EnumInteressado["ParteInteressada"] = "ParteInteressada";
-    EnumInteressado["NomeDoInteressado"] = "NomeDoInteressado";
-})(EnumInteressado = exports.EnumInteressado || (exports.EnumInteressado = {}));
+var Interessado;
+(function (Interessado) {
+    Interessado["Intda"] = "Intda";
+    Interessado["Intdo"] = "Intdo";
+    Interessado["IntdoAS"] = "IntdoAS";
+    Interessado["Interesdo"] = "Interesdo";
+    Interessado["Interessad"] = "Interessad";
+    Interessado["Interessada"] = "Interessada";
+    Interessado["Interessadas"] = "Interessadas";
+    Interessado["Interessado"] = "Interessado";
+    Interessado["InteressadoProcedencia"] = "InteressadoProcedencia";
+    Interessado["Interessados"] = "Interessados";
+    Interessado["ParteInteressada"] = "ParteInteressada";
+    Interessado["NomeDoInteressado"] = "NomeDoInteressado";
+})(Interessado = exports.Interessado || (exports.Interessado = {}));
 //# sourceMappingURL=interessado.js.map

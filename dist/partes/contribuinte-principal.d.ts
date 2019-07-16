@@ -1,3 +1,3 @@
-export declare enum EnumContribuintePrincipal {
+export declare enum ContribuintePrincipal {
     ContribuintePrincipal = "ContribuintePrincipal"
 }

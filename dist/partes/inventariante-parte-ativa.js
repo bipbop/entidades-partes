@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumInventarianteParteAtiva;
-(function (EnumInventarianteParteAtiva) {
-    EnumInventarianteParteAtiva["InventarianteParteAtiva"] = "InventarianteParteAtiva";
-})(EnumInventarianteParteAtiva = exports.EnumInventarianteParteAtiva || (exports.EnumInventarianteParteAtiva = {}));
+var InventarianteParteAtiva;
+(function (InventarianteParteAtiva) {
+    InventarianteParteAtiva["InventarianteParteAtiva"] = "InventarianteParteAtiva";
+})(InventarianteParteAtiva = exports.InventarianteParteAtiva || (exports.InventarianteParteAtiva = {}));
 //# sourceMappingURL=inventariante-parte-ativa.js.map

@@ -1,4 +1,4 @@
-export declare enum EnumSustante {
+export declare enum Sustante {
     Suste = "Suste",
     Sustante = "Sustante"
 }

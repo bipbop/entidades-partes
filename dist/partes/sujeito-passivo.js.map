@@ -1,1 +1,1 @@
-{"version":3,"file":"sujeito-passivo.js","sourceRoot":"","sources":["../../src/partes/sujeito-passivo.ts"],"names":[],"mappings":";;AAAA,IAAY,kBAEX;AAFD,WAAY,kBAAkB;IAC5B,uDAAiC,CAAA;AACnC,CAAC,EAFW,kBAAkB,GAAlB,0BAAkB,KAAlB,0BAAkB,QAE7B"}
+{"version":3,"file":"sujeito-passivo.js","sourceRoot":"","sources":["../../src/partes/sujeito-passivo.ts"],"names":[],"mappings":";;AAAA,IAAY,cAEX;AAFD,WAAY,cAAc;IACxB,mDAAiC,CAAA;AACnC,CAAC,EAFW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAEzB"}

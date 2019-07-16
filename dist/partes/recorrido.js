@@ -1,14 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumRecorrido;
-(function (EnumRecorrido) {
-    EnumRecorrido["Recdo"] = "Recdo";
-    EnumRecorrido["RecdoAS"] = "RecdoAS";
-    EnumRecorrido["Recorrida"] = "Recorrida";
-    EnumRecorrido["Recorridas"] = "Recorridas";
-    EnumRecorrido["Recorrido"] = "Recorrido";
-    EnumRecorrido["Recorridos"] = "Recorridos";
-    EnumRecorrido["Recorridoa"] = "Recorridoa";
-    EnumRecorrido["Recorridoas"] = "Recorridoas";
-})(EnumRecorrido = exports.EnumRecorrido || (exports.EnumRecorrido = {}));
+var Recorrido;
+(function (Recorrido) {
+    Recorrido["Recdo"] = "Recdo";
+    Recorrido["RecdoAS"] = "RecdoAS";
+    Recorrido["Recorrida"] = "Recorrida";
+    Recorrido["Recorridas"] = "Recorridas";
+    Recorrido["Recorrido"] = "Recorrido";
+    Recorrido["Recorridos"] = "Recorridos";
+    Recorrido["Recorridoa"] = "Recorridoa";
+    Recorrido["Recorridoas"] = "Recorridoas";
+})(Recorrido = exports.Recorrido || (exports.Recorrido = {}));
 //# sourceMappingURL=recorrido.js.map

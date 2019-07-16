@@ -1,1 +1,1 @@
-{"version":3,"file":"impetrante.js","sourceRoot":"","sources":["../../src/partes/impetrante.ts"],"names":[],"mappings":";;AAAA,IAAY,cAMX;AAND,WAAY,cAAc;IACxB,2CAAyB,CAAA;IACzB,6CAA2B,CAAA;IAC3B,iCAAe,CAAA;IACf,mCAAiB,CAAA;IACjB,mCAAiB,CAAA;AACnB,CAAC,EANW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAMzB"}
+{"version":3,"file":"impetrante.js","sourceRoot":"","sources":["../../src/partes/impetrante.ts"],"names":[],"mappings":";;AAAA,IAAY,UAMX;AAND,WAAY,UAAU;IACpB,uCAAyB,CAAA;IACzB,yCAA2B,CAAA;IAC3B,6BAAe,CAAA;IACf,+BAAiB,CAAA;IACjB,+BAAiB,CAAA;AACnB,CAAC,EANW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAMrB"}

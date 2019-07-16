@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPoloPassivo;
-(function (EnumPoloPassivo) {
-    EnumPoloPassivo["PoloPassivo"] = "PoloPassivo";
-})(EnumPoloPassivo = exports.EnumPoloPassivo || (exports.EnumPoloPassivo = {}));
+var PoloPassivo;
+(function (PoloPassivo) {
+    PoloPassivo["PoloPassivo"] = "PoloPassivo";
+})(PoloPassivo = exports.PoloPassivo || (exports.PoloPassivo = {}));
 //# sourceMappingURL=polo-passivo.js.map

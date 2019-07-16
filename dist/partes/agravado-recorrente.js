@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumAgravadoRecorrente;
-(function (EnumAgravadoRecorrente) {
-    EnumAgravadoRecorrente["AgravadosERecorrentes"] = "AgravadosERecorrentes";
-    EnumAgravadoRecorrente["AgravadoRecorrente"] = "AgravadoRecorrente";
-})(EnumAgravadoRecorrente = exports.EnumAgravadoRecorrente || (exports.EnumAgravadoRecorrente = {}));
+var AgravadoRecorrente;
+(function (AgravadoRecorrente) {
+    AgravadoRecorrente["AgravadosERecorrentes"] = "AgravadosERecorrentes";
+    AgravadoRecorrente["AgravadoRecorrente"] = "AgravadoRecorrente";
+})(AgravadoRecorrente = exports.AgravadoRecorrente || (exports.AgravadoRecorrente = {}));
 //# sourceMappingURL=agravado-recorrente.js.map

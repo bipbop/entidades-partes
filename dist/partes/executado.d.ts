@@ -1,4 +1,4 @@
-export declare enum EnumExecutado {
+export declare enum Executado {
     Excdo = "Excdo",
     Exectdo = "Exectdo",
     Executada = "Executada",

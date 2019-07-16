@@ -1,13 +1,13 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumReclamante;
-(function (EnumReclamante) {
-    EnumReclamante["PlurimaDoReclamante"] = "PlurimaDoReclamante";
-    EnumReclamante["Reclamante"] = "Reclamante";
-    EnumReclamante["Reclamantes"] = "Reclamantes";
-    EnumReclamante["ReclamanteS"] = "ReclamanteS";
-    EnumReclamante["ReclamantePrincipal"] = "ReclamantePrincipal";
-    EnumReclamante["Reclte"] = "Reclte";
-    EnumReclamante["ReclteS"] = "ReclteS";
-})(EnumReclamante = exports.EnumReclamante || (exports.EnumReclamante = {}));
+var Reclamante;
+(function (Reclamante) {
+    Reclamante["PlurimaDoReclamante"] = "PlurimaDoReclamante";
+    Reclamante["Reclamante"] = "Reclamante";
+    Reclamante["Reclamantes"] = "Reclamantes";
+    Reclamante["ReclamanteS"] = "ReclamanteS";
+    Reclamante["ReclamantePrincipal"] = "ReclamantePrincipal";
+    Reclamante["Reclte"] = "Reclte";
+    Reclamante["ReclteS"] = "ReclteS";
+})(Reclamante = exports.Reclamante || (exports.Reclamante = {}));
 //# sourceMappingURL=reclamante.js.map

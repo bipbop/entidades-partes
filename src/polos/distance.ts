@@ -1,23 +1,23 @@
 import levenshtein from 'js-levenshtein'
-import { partes, TypeParte, TObjectPartes } from './partes'
+import { Partes, TypeParte, ObjectPartes } from './partes'
 import mapValues from 'lodash/mapValues'
-import { Polo } from '.';
+import { Polo } from '.'
 
-interface DistanceResponse extends Object {
+interface DistanceResponse {
   parte: TypeParte
   distance: number
 }
 
-interface IDistance {
+interface Distance {
   polo: Polo
   parte: TypeParte
-  distance: number  
+  distance: number
 }
 
-export function distance(str: string): IDistance {
-  const items = mapValues<TObjectPartes, DistanceResponse>(partes, (a): DistanceResponse  => {
+export function distance(str: string): Distance {
+  const items = mapValues<ObjectPartes, DistanceResponse>(Partes, (a): DistanceResponse => {
     const distances = mapValues(a, (n: TypeParte): number => {
-      return levenshtein(str, n);
+      return levenshtein(str, n)
     })
     const parte = Object.entries(distances).sort((a, b) => a[1] - b[1])[0][0] as TypeParte
     return { parte, distance: distances[parte] }

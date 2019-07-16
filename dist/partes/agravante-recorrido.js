@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumAgravanteRecorrido;
-(function (EnumAgravanteRecorrido) {
-    EnumAgravanteRecorrido["AgravantesERecorridos"] = "AgravantesERecorridos";
-    EnumAgravanteRecorrido["AgravanteRecorrido"] = "AgravanteRecorrido";
-})(EnumAgravanteRecorrido = exports.EnumAgravanteRecorrido || (exports.EnumAgravanteRecorrido = {}));
+var AgravanteRecorrido;
+(function (AgravanteRecorrido) {
+    AgravanteRecorrido["AgravantesERecorridos"] = "AgravantesERecorridos";
+    AgravanteRecorrido["AgravanteRecorrido"] = "AgravanteRecorrido";
+})(AgravanteRecorrido = exports.AgravanteRecorrido || (exports.AgravanteRecorrido = {}));
 //# sourceMappingURL=agravante-recorrido.js.map

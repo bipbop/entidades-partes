@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumCorrigente;
-(function (EnumCorrigente) {
-    EnumCorrigente["Corrigente"] = "Corrigente";
-})(EnumCorrigente = exports.EnumCorrigente || (exports.EnumCorrigente = {}));
+var Corrigente;
+(function (Corrigente) {
+    Corrigente["Corrigente"] = "Corrigente";
+})(Corrigente = exports.Corrigente || (exports.Corrigente = {}));
 //# sourceMappingURL=corrigente.js.map

@@ -1,1 +1,1 @@
-{"version":3,"file":"terceiro-interessado.js","sourceRoot":"","sources":["../../src/partes/terceiro-interessado.ts"],"names":[],"mappings":";;AAAA,IAAY,uBAEX;AAFD,WAAY,uBAAuB;IACjC,sEAA2C,CAAA;AAC7C,CAAC,EAFW,uBAAuB,GAAvB,+BAAuB,KAAvB,+BAAuB,QAElC"}
+{"version":3,"file":"terceiro-interessado.js","sourceRoot":"","sources":["../../src/partes/terceiro-interessado.ts"],"names":[],"mappings":";;AAAA,IAAY,mBAEX;AAFD,WAAY,mBAAmB;IAC7B,kEAA2C,CAAA;AAC7C,CAAC,EAFW,mBAAmB,GAAnB,2BAAmB,KAAnB,2BAAmB,QAE9B"}

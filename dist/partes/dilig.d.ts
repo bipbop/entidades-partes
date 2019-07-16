@@ -1,3 +1,3 @@
-export declare enum EnumDilig {
+export declare enum Dilig {
     Dilig = "Dilig"
 }

@@ -6,7 +6,7 @@ export { JuizDeprecante } from '../partes/juiz-deprecante'
 export { JustRog } from '../partes/just-rog'
 export { Relator } from '../partes/relator'
 export { Revisor } from '../partes/revisor'
-  
+
 import { Deprecado } from '../partes/deprecado'
 import { Deprecante } from '../partes/deprecante'
 import { JuizoSentenciante } from '../partes/juizo-sentenciante'
@@ -19,7 +19,7 @@ import { Polo } from '.'
 
 export type TypeJuizoDesembargador = Deprecado | Deprecante | JuizoSentenciante | Jusrogante | JuizDeprecante | JustRog | Relator | Revisor
 
-export interface DictJuizoDesembargador {[name: string]: TypeJuizoDesembargador}
+export interface DictJuizoDesembargador { [name: string]: TypeJuizoDesembargador }
 export const ObjectJuizoDesembargador: DictJuizoDesembargador = Object.assign({}, Deprecado, Deprecante, JuizoSentenciante, Jusrogante, JuizDeprecante, JustRog, Relator, Revisor)
 Object.freeze(ObjectJuizoDesembargador)
 

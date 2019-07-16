@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumDemandante;
-(function (EnumDemandante) {
-    EnumDemandante["Demandante"] = "Demandante";
-})(EnumDemandante = exports.EnumDemandante || (exports.EnumDemandante = {}));
+var Demandante;
+(function (Demandante) {
+    Demandante["Demandante"] = "Demandante";
+})(Demandante = exports.Demandante || (exports.Demandante = {}));
 //# sourceMappingURL=demandante.js.map

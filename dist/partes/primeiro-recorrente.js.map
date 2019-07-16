@@ -1,1 +1,1 @@
-{"version":3,"file":"primeiro-recorrente.js","sourceRoot":"","sources":["../../src/partes/primeiro-recorrente.ts"],"names":[],"mappings":";;AAAA,IAAY,sBAGX;AAHD,WAAY,sBAAsB;IAChC,mDAAyB,CAAA;IACzB,mEAAyC,CAAA;AAC3C,CAAC,EAHW,sBAAsB,GAAtB,8BAAsB,KAAtB,8BAAsB,QAGjC"}
+{"version":3,"file":"primeiro-recorrente.js","sourceRoot":"","sources":["../../src/partes/primeiro-recorrente.ts"],"names":[],"mappings":";;AAAA,IAAY,kBAGX;AAHD,WAAY,kBAAkB;IAC5B,+CAAyB,CAAA;IACzB,+DAAyC,CAAA;AAC3C,CAAC,EAHW,kBAAkB,GAAlB,0BAAkB,KAAlB,0BAAkB,QAG7B"}

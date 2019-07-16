@@ -1,1 +1,1 @@
-{"version":3,"file":"inquirido.js","sourceRoot":"","sources":["../../src/partes/inquirido.ts"],"names":[],"mappings":";;AAAA,IAAY,aAGX;AAHD,WAAY,aAAa;IACvB,wCAAuB,CAAA;IACvB,0CAAyB,CAAA;AAC3B,CAAC,EAHW,aAAa,GAAb,qBAAa,KAAb,qBAAa,QAGxB"}
+{"version":3,"file":"inquirido.js","sourceRoot":"","sources":["../../src/partes/inquirido.ts"],"names":[],"mappings":";;AAAA,IAAY,SAGX;AAHD,WAAY,SAAS;IACnB,oCAAuB,CAAA;IACvB,sCAAyB,CAAA;AAC3B,CAAC,EAHW,SAAS,GAAT,iBAAS,KAAT,iBAAS,QAGpB"}

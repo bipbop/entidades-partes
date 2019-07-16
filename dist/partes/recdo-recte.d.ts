@@ -1,4 +1,4 @@
-export declare enum EnumRecdoRecte {
+export declare enum RecdoRecte {
     RecdaRecte = "RecdaRecte",
     RecdoRecte = "RecdoRecte"
 }

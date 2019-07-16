@@ -1,1 +1,1 @@
-{"version":3,"file":"querelante.js","sourceRoot":"","sources":["../../src/partes/querelante.ts"],"names":[],"mappings":";;AAAA,IAAY,cAGX;AAHD,WAAY,cAAc;IACxB,+BAAa,CAAA;IACb,2CAAyB,CAAA;AAC3B,CAAC,EAHW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAGzB"}
+{"version":3,"file":"querelante.js","sourceRoot":"","sources":["../../src/partes/querelante.ts"],"names":[],"mappings":";;AAAA,IAAY,UAGX;AAHD,WAAY,UAAU;IACpB,2BAAa,CAAA;IACb,uCAAyB,CAAA;AAC3B,CAAC,EAHW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAGrB"}

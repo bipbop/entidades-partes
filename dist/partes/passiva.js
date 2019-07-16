@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var EnumPassiva;
-(function (EnumPassiva) {
-    EnumPassiva["Passiva"] = "Passiva";
-})(EnumPassiva = exports.EnumPassiva || (exports.EnumPassiva = {}));
+var Passiva;
+(function (Passiva) {
+    Passiva["Passiva"] = "Passiva";
+})(Passiva = exports.Passiva || (exports.Passiva = {}));
 //# sourceMappingURL=passiva.js.map
