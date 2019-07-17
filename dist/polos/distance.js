@@ -17,10 +17,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var js_levenshtein_1 = __importDefault(require("js-levenshtein"));
 var partes_1 = require("./partes");
 var mapValues_1 = __importDefault(require("lodash/mapValues"));
+var diacritics_1 = require("diacritics");
 function distance(str) {
+    str = diacritics_1.remove(str.replace(/ /g, '')).toLowerCase();
     var items = mapValues_1.default(partes_1.Partes, function (a) {
         var distances = mapValues_1.default(a, function (n) {
-            return js_levenshtein_1.default(str, n);
+            return js_levenshtein_1.default(str, diacritics_1.remove(n).toLowerCase());
         });
         var parte = Object.entries(distances).sort(function (a, b) { return a[1] - b[1]; })[0][0];
         return { parte: parte, distance: distances[parte] };

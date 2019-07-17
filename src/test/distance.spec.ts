@@ -11,7 +11,7 @@ test('exact match', async () => {
 test('lower case', async () => {
   const dist = distance('beneficiario')
 
-  expect(dist.distance).toBe(1)
+  expect(dist.distance).toBe(0)
   expect(dist.parte).toBe('Beneficiario')
   expect(dist.polo).toBe('Terceiro')
 })
@@ -19,7 +19,7 @@ test('lower case', async () => {
 test('multipart space separated', async () => {
   const dist = distance('chamado ao processo')
 
-  expect(dist.distance).toBe(5)
+  expect(dist.distance).toBe(0)
   expect(dist.parte).toBe('ChamadoAoProcesso')
   expect(dist.polo).toBe('Terceiro')
 })

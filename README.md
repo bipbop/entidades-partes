@@ -23,7 +23,7 @@ This package is provided in these module formats:
 import { distance } from 'entidades-partes'
 
 console.log(distance('acusado'))
-// { polo: 'Passivo', parte: 'Acusado', distance: 1 }
+// { polo: 'Passivo', parte: 'Acusado', distance: 0 }
 ```
 
 ## Building
@@ -44,6 +44,7 @@ npm test
 ```
 
 ## Dependencies
+- [diacritics](https://github.com/andrewrk/node-diacritics): remove diacritics from strings ("ascii folding") - Node.js module
 - [js-levenshtein](https://github.com/gustf/js-levenshtein): The most efficient JS implementation calculating the Levenshtein distance, i.e. the difference between two strings.
 - [lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 
