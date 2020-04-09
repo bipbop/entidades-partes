@@ -1,5 +1,5 @@
 {
-  "name": "@bipbopql/entidades-partes",
+  "name": "entidades-partes",
   "version": "0.1.2",
   "description": "Lista de possíveis nomeclaturas de partes em processos jurídicos.",
   "main": "dist/index.js",
