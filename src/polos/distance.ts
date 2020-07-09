@@ -16,7 +16,11 @@ interface Distance {
 }
 
 export function distance(str: string): Distance {
-  str = remove(str.replace(/ /g, '')).toLowerCase()
+  str = remove(str)
+    .replace(/^p[óÓo]lo/i, '')
+    .replace(/\([^\)]+\)/, '')
+    .replace(/ /g, '')
+    .toLowerCase()
   const items = mapValues<ObjectPartes, DistanceResponse>(Partes, (a): DistanceResponse => {
     const distances = mapValues(a, (n: TypeParte): number => {
       return levenshtein(str, remove(n).toLowerCase())

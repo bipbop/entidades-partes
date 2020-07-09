@@ -19,7 +19,11 @@ var partes_1 = require("./partes");
 var mapValues_1 = __importDefault(require("lodash/mapValues"));
 var diacritics_1 = require("diacritics");
 function distance(str) {
-    str = diacritics_1.remove(str.replace(/ /g, '')).toLowerCase();
+    str = diacritics_1.remove(str)
+        .replace(/^p[óÓo]lo/i, '')
+        .replace(/\([^\)]+\)/, '')
+        .replace(/ /g, '')
+        .toLowerCase();
     var items = mapValues_1.default(partes_1.Partes, function (a) {
         var distances = mapValues_1.default(a, function (n) {
             return js_levenshtein_1.default(str, diacritics_1.remove(n).toLowerCase());
