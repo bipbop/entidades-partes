@@ -11,7 +11,7 @@ usando o algoritmo de Levenshtein.
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install entidades-partes --save
+npm install @bipbop/entidades-partes --save
 ```
 
 This package is provided in these module formats:
